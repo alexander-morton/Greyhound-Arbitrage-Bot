@@ -12,10 +12,11 @@ my_url = 'https://www.odds.com.au/greyhounds/'
 
 uclient = urlopen(my_url)
 page_html = uclient.read()
+page_soup = soup(page_html, "html.parser")
 uclient.close()
 
-page_soup = soup(page_html, "html.parser")
-print(page_soup.body.div.div.div.div.main)
 
 
-
+rows = page_soup.find_all("a", {"class": "event-lists__link"})
+print(len(rows))
+print(rows)
