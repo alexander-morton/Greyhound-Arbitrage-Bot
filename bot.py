@@ -9,7 +9,7 @@ if (not os.environ.get('PYTHONHTTPSVERIFY', '') and getattr(ssl, '_create_unveri
 
 my_url = 'https://www.odds.com.au/greyhounds/'
 
-browser = webdriver.Chrome('/Users/alexmorton/opt/WebDriver/bin/chromedriver') #The chromedriver filepath needs to be correct
+browser = webdriver.Chrome('/Users/alexmorton/Desktop/Bet-tings/chromedriver') #The chromedriver filepath needs to be correct
 browser.get(my_url) #This will open a browser with the URL
 
 
