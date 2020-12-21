@@ -15,7 +15,7 @@ page_html = uclient.read()
 uclient.close()
 
 page_soup = soup(page_html, "html.parser")
-print(page_soup.body.div)
-tracks = page_soup.findAll("div",{"class":"racing-meeting-row__header"})
-print(len(tracks))
+print(page_soup.body.div.div.div.div.main)
+
+
 
