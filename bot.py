@@ -8,10 +8,14 @@ if (not os.environ.get('PYTHONHTTPSVERIFY', '') and getattr(ssl, '_create_unveri
     ssl._create_default_https_context = ssl._create_unverified_context
 
 
-my_url = 'https://www.odds.com.au/greyhounds/casino/race-8/?date=2020-12-17'
-gcontext = ssl.SSLContext()
+my_url = 'https://www.odds.com.au/greyhounds/'
+
 uclient = urlopen(my_url)
 page_html = uclient.read()
 uclient.close()
 
 page_soup = soup(page_html, "html.parser")
+print(page_soup.body.div)
+tracks = page_soup.findAll("div",{"class":"racing-meeting-row__header"})
+print(len(tracks))
+
