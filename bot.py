@@ -28,4 +28,4 @@ page_soup = soup(html, "html.parser")
 rows = page_soup.find_all("p", {"class": "racing-meeting-row__meeting-name"})
 tracks = []
 for track in rows:
-    printtrack.getText()
+    tracks.append(track.getText())
