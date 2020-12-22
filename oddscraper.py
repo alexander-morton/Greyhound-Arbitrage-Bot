@@ -23,10 +23,9 @@ for dog in rows:
     dogs[dog_name] = []
 
 
-tab_ls = page_soup.find_all("div", {"class":"octd-right__main-cell ubet-line ubet-10709316"})
-tab_odds = []
+rows = page_soup.find_all("div", {"class":"octd-right__main-row"})
 
-for value in tab_ls:
-    odds = value.a.div.div.div
-    print(odds)
+for row in rows:
+
+
 
