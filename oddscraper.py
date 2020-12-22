@@ -16,22 +16,28 @@ page_soup = soup(html, 'html.parser')
 
 
 rows = page_soup.find_all("span", {"class":"octd-left__silk-wrap"})
-dogs = {}
+dogs = []
 
 for dog in rows:
     dog_name = dog.img["alt"]
-    dogs[dog_name] = []
+    dogs.append(dog_name)
 
 
 rows = page_soup.find_all("div", {"class":"octd-right__main-row"})
+odds_dict = {}
 
 for row in rows:
-    odds = row.find_all('div', {"value status class":"octd-right__odds-value-cell"})
+    odds = row.find_all('div', {"class":"octd-right__odds-value-cell"})
     values = []
     for odd in odds:
-        dog_odd = odd.getText()
+        dog_odd = float(odd.getText())
         values.append(dog_odd)
-    print(values)
+    dog_name = dogs.pop(0)
+    odds_dict[dog_name] = values
+
+print(odds_dict)
+    
+    
         
 
 
