@@ -12,7 +12,7 @@ my_url = 'https://www.odds.com.au/greyhounds/ipswich/race-4/?date=2020-12-22'
 browser = webdriver.Chrome('/Users/Bet-tings/chromedriver')
 browser.get(my_url)
 html = browser.page_source
-page_soup = soup(page_html, 'html.parser')
+page_soup = soup(html, 'html.parser')
 
 
 rows = page_soup.find_all("span", {"class":"competitor-details"})

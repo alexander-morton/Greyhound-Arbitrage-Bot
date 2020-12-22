@@ -25,7 +25,14 @@ page_soup = soup(html, "html.parser")
 
 
 
-rows = page_soup.find_all("p", {"class": "racing-meeting-row__meeting-name"})
+row_heads = page_soup.find_all("p", {"class": "racing-meeting-row__meeting-name"})
 tracks = []
-for track in rows:
+for track in row_heads:
     tracks.append(track.getText())
+
+
+
+for row in page_soup.find_all("div", {"class":"racing-meeting-row"}):
+
+    for race in row.find_all("a", {"class": "is-imminent racing-meeting-cell"},href = True):
+        print(race["href"])
