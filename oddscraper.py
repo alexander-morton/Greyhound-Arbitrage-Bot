@@ -15,10 +15,11 @@ html = browser.page_source
 page_soup = soup(html, 'html.parser')
 
 
-rows = page_soup.find_all("span", {"class":"competitor-details"})
+rows = page_soup.find_all("span", {"class":"octd-left__silk-wrap"})
 print(len(rows))
-#dogs = []
+dogs = {}
 
-#for dog in rows:
-    #dogs.append(dog.getText())
-#print(dogs)
+for dog in rows:
+    dog_name = dog.img["alt"]
+    dogs[dog_name] = []
+print(dogs)
