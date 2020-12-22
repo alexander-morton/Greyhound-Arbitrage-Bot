@@ -25,6 +25,7 @@ for dog in rows:
 
 rows = page_soup.find_all("div", {"class":"octd-right__main-row"})
 
+for row in rows:
 
 
 
