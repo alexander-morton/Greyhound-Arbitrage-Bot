@@ -35,6 +35,7 @@ for row in rows:
     dog_name = dogs.pop(0)
     odds_dict[dog_name] = values[3:]
 
+
 print(odds_dict)
     
     
