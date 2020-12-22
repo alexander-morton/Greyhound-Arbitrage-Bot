@@ -25,6 +25,7 @@ page_soup = soup(html, "html.parser")
 
 
 
-rows = page_soup.find_all("div", {"class": "racing-meeting-row__header"})
-print(len(rows))
-# print(rows)
+rows = page_soup.find_all("p", {"class": "racing-meeting-row__meeting-name"})
+tracks = []
+for track in rows:
+    tracks.append(track.getText())
