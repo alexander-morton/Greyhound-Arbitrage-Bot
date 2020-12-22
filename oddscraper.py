@@ -26,6 +26,14 @@ for dog in rows:
 rows = page_soup.find_all("div", {"class":"octd-right__main-row"})
 
 for row in rows:
+    odds = row.find_all('div', {"value status class":"octd-right__odds-value-cell"})
+    values = []
+    for odd in odds:
+        dog_odd = odd.getText()
+        values.append(dog_odd)
+    print(values)
+        
+
 
 
 
