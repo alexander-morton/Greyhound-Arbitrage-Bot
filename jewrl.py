@@ -4,8 +4,6 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup as soup
 from selenium import webdriver 
 
-if (not os.environ.get('PYTHONHTTPSVERIFY', '') and getattr(ssl, '_create_unverified_context', None)): #Not sure how this works but it does
-    ssl._create_default_https_context = ssl._create_unverified_context
 
 def jewrl():
     my_url = 'https://www.odds.com.au/greyhounds/'
@@ -54,5 +52,3 @@ def jewrl():
 
     return url_dict
 
-URLS = jewrl()
-print(URLS)
