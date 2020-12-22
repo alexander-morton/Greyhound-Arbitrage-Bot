@@ -31,8 +31,25 @@ for track in row_heads:
     tracks.append(track.getText())
 
 
+# races = []
+# for row in page_soup.find_all("div", {"class":"racing-meeting-row"}):
+#     track_race=[]
+#     for race in row.find_all("a", {"class": "racing-meeting-cell"}):
+#         track_race.append(race["href"])
+#     races.append(track_race)
 
+
+races = []
 for row in page_soup.find_all("div", {"class":"racing-meeting-row"}):
+    track_race=[]
+    for race in row.find_all("a", {"class": "is-imminent racing-meeting-cell"}):
+        track_race.append("https://www.odds.com.au"+race["href"])
+    races.append(track_race)
 
-    for race in row.find_all("a", {"class": "is-imminent racing-meeting-cell"},href = True):
-        print(race["href"])
+url_dict = {}
+
+for track_name in tracks:
+    url_dict[track_name] = races.pop(0)
+
+print(url_dict)
+print('https://www.odds.com.au/greyhounds/ipswich/race-4/?date=2020-12-22')
