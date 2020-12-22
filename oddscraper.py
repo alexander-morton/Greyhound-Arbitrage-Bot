@@ -16,10 +16,17 @@ page_soup = soup(html, 'html.parser')
 
 
 rows = page_soup.find_all("span", {"class":"octd-left__silk-wrap"})
-print(len(rows))
 dogs = {}
 
 for dog in rows:
     dog_name = dog.img["alt"]
     dogs[dog_name] = []
-print(dogs)
+
+
+tab_ls = page_soup.find_all("div", {"class":"octd-right__main-cell ubet-line ubet-10709316"})
+tab_odds = []
+
+for value in tab_ls:
+    odds = value.a.div.div.div
+    print(odds)
+
