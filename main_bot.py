@@ -21,7 +21,7 @@ def check():
             
             
             odds_dict = oddscraper(url_dict[track][0])
-            if not spreader(odds_dict)[0]:
+            if spreader(odds_dict)[0]:
                 f = open("success.txt", "a")
                 f.write(str(spreader(odds_dict)[0]) + str(spreader(odds_dict)[1]) + track +"\n")
                 f.close()
