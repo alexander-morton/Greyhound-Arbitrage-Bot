@@ -50,5 +50,7 @@ def jewrl():
     for track_name in tracks:
         url_dict[track_name] = races.pop(0)
 
+    browser.close()
+
     return url_dict
 
