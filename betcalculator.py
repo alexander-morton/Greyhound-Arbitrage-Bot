@@ -20,7 +20,7 @@ def bet_calculator(ls, profit):
     
     bet_matrix = numpy.array(matrix)
     bet_inverse = numpy.linalg.inv(bet_matrix)
-    if not isinstance(profit, ls):
+    if not isinstance(profit, list):
         i = 0
         profit_vector = []
         while i < len(ls):
