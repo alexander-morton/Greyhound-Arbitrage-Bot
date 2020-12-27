@@ -108,15 +108,36 @@ def refresher(ls):
             if time_left == "done" or time_left < datetime.timedelta(seconds = 15):
                 ls[i][2].close()
                 ls.remove(ls[i])
-
                 print("yeeehaaaa")
                 break
 
             print(time_left)
-            time.sleep(4)
+            odds_dict = oddscraper2(window_soup)
+            print(odds_dict)
+            time.sleep(5)
             i += 1
 
-ls1 = []
-adder(newrl(),ls1)
-refresher(ls1)
+
+def oddscraper2(page_soup):
+
+    rows = page_soup.find_all("span", {"class":"octd-left__silk-wrap"})
+    dogs = []
+
+    for dog in rows:
+        dog_name = dog.img["alt"]
+        dogs.append(dog_name)
+
+    rows = page_soup.find_all("div", {"class":"octd-right__main-row"})
+    odds_dict = {}
+
+    for row in rows:
+        odds = row.find_all('div', {"class":"octd-right__odds-value-cell"})
+        values = []
+        for odd in odds:
+            dog_odd = float(odd.getText())
+            values.append(dog_odd)
+        dog_name = dogs.pop(0)
+        odds_dict[dog_name] = values[3:]
+
+    return odds_dict
 
