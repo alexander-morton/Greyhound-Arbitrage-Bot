@@ -1,0 +1,1435 @@
+False 1.2423040288986729 Lismore race-3
+False 1.2344603350216283 Mount Gambier race-3
+False 1.211476366317388 Lismore race-3
+False 1.162037038196979 Mount Gambier race-3
+False 1.2626768867078946 Shepparton race-1
+False 1.259550146579976 Cambridge race-9
+False 1.172476527656358 Lismore race-3
+False 1.109198763447392 Mount Gambier race-3
+False 1.2626768867078946 Shepparton race-1
+False 1.259550146579976 Cambridge race-9
+False 1.1575826134649665 Lismore race-3
+False 1.2729693044475032 Mount Gambier race-4
+False 1.2626768867078946 Shepparton race-1
+False 1.250796645179416 Cambridge race-9
+False 1.125776738984286 Lismore race-3
+False 1.2709059438920136 Mount Gambier race-4
+False 1.2626768867078946 Shepparton race-1
+False 1.250796645179416 Cambridge race-9
+False 1.1834990989402754 Lismore race-4
+False 1.2749300887612287 Mount Gambier race-4
+False 1.2626768867078946 Shepparton race-1
+False 1.250796645179416 Cambridge race-9
+False 1.181744712975363 Lismore race-4
+False 1.2749300887612287 Mount Gambier race-4
+False 1.2626768867078946 Shepparton race-1
+False 1.250796645179416 Cambridge race-9
+False 1.1975576827302044 Lismore race-4
+False 1.2470952987465815 Mount Gambier race-4
+False 1.2626768867078946 Shepparton race-1
+False 1.250796645179416 Cambridge race-9
+False 1.1975576827302044 Lismore race-4
+False 1.2229155311457613 Mount Gambier race-4
+False 1.2626768867078946 Shepparton race-1
+False 1.250796645179416 Cambridge race-9
+False 1.1975576827302044 Lismore race-4
+False 1.1261416128207833 Mount Gambier race-4
+False 1.2626768867078946 Shepparton race-1
+False 1.2409258352570065 Cambridge race-9
+False 1.1970260604215532 Lismore race-4
+False 1.1167959127257814 Mount Gambier race-4
+False 1.257950430368535 Shepparton race-1
+False 1.2517529681521382 Cambridge race-9
+False 1.1586037159289102 Lismore race-4
+False 1.2659607135841326 Mount Gambier race-5
+False 1.257950430368535 Shepparton race-1
+False 1.2406523708849289 Cambridge race-9
+False 1.1914705316642231 Lismore race-5
+False 1.2659607135841326 Mount Gambier race-5
+False 1.257950430368535 Shepparton race-1
+False 1.1922330887269912 Cambridge race-9
+False 1.1923617972613711 Lismore race-5
+False 1.2659607135841326 Mount Gambier race-5
+False 1.2503746727927774 Shepparton race-1
+False 1.1683560474730987 Cambridge race-9
+False 1.1923617972613711 Lismore race-5
+False 1.2659607135841326 Mount Gambier race-5
+False 1.2071084507361307 Shepparton race-1
+False 1.2205084589984372 Cambridge race-10
+False 1.1923617972613711 Lismore race-5
+False 1.2710810412851055 Mount Gambier race-5
+False 1.1505386053449183 Shepparton race-1
+False 1.2205084589984372 Cambridge race-10
+False 1.1923617972613711 Lismore race-5
+False 1.2710810412851055 Mount Gambier race-5
+False 1.1008196596431892 Shepparton race-1
+False 1.2232406994355958 Cambridge race-10
+False 1.2229554643469738 Lismore race-5
+False 1.2554005000627686 Mount Gambier race-5
+False 1.26039834600649 Shepparton race-2
+False 1.2232406994355958 Cambridge race-10
+False 1.2234916216202945 Lismore race-5
+False 1.210108598380814 Mount Gambier race-5
+False 1.26039834600649 Shepparton race-2
+False 1.2150757678168982 Cambridge race-10
+False 1.2191164507151813 Lismore race-5
+False 1.1658912630899563 Mount Gambier race-5
+False 1.26039834600649 Shepparton race-2
+False 1.2123435273797396 Cambridge race-10
+False 1.1775977279431533 Lismore race-5
+False 1.0668078006305222 Mount Gambier race-5
+False 1.26039834600649 Shepparton race-2
+False 1.2123435273797396 Cambridge race-10
+False 1.18393808329424 Lismore race-5
+False 1.2481610257271873 Mount Gambier race-6
+False 1.26039834600649 Shepparton race-2
+False 1.2123435273797396 Cambridge race-10
+False 1.142942776436187 Lismore race-5
+False 1.2490475505498824 Mount Gambier race-6
+False 1.26039834600649 Shepparton race-2
+False 1.2123435273797396 Cambridge race-10
+False 1.1907124665714108 Lismore race-6
+False 1.2490475505498824 Mount Gambier race-6
+False 1.2306083126754117 Shepparton race-2
+False 1.2123435273797396 Cambridge race-10
+False 1.1957544064929226 Lismore race-6
+False 1.2490475505498824 Mount Gambier race-6
+False 1.2197252006893586 Shepparton race-2
+False 1.2334973735335857 Cambridge race-10
+False 1.1957544064929226 Lismore race-6
+False 1.2501819804988332 Mount Gambier race-6
+False 1.1609001709968625 Shepparton race-2
+False 1.202200951929091 Cambridge race-10
+False 1.1957544064929226 Lismore race-6
+False 1.249972619930086 Mount Gambier race-6
+False 1.1324076135297156 Shepparton race-2
+False 1.178563624958844 Cambridge race-10
+False 1.1957544064929226 Lismore race-6
+False 1.2321927765855365 Mount Gambier race-6
+False 1.268301690933714 Shepparton race-3
+False 1.200264401701798 Cambridge race-10
+False 1.1957544064929226 Lismore race-6
+False 1.230455911626787 Mount Gambier race-6
+False 1.2668456084918756 Warragul race-1
+False 1.268301690933714 Shepparton race-3
+False 1.1592794398528647 Cambridge race-10
+False 1.199718452711209 Lismore race-6
+False 1.2082201738458105 Mount Gambier race-6
+False 1.2668456084918756 Warragul race-1
+False 1.268301690933714 Shepparton race-3
+False 1.1852833950455979 Lismore race-6
+False 1.146187890841979 Mount Gambier race-6
+False 1.2668456084918756 Warragul race-1
+False 1.268301690933714 Shepparton race-3
+False 1.1539210716753223 Lismore race-6
+False 1.106505972912055 Mount Gambier race-6
+False 1.2668456084918756 Warragul race-1
+False 1.238899692741915 Shepparton race-3
+False 1.146432269775363 Lismore race-6
+False 1.2527060269263488 Mount Gambier race-7
+False 1.2668456084918756 Warragul race-1
+False 1.24198179796735 Shepparton race-3
+False 1.212666241702315 Lismore race-7
+False 1.2527060269263488 Mount Gambier race-7
+False 1.2668456084918756 Warragul race-1
+False 1.214565920739715 Shepparton race-3
+False 1.2152978206496834 Lismore race-7
+False 1.2527060269263488 Mount Gambier race-7
+False 1.2668456084918756 Warragul race-1
+False 1.19690567734973 Shepparton race-3
+False 1.2131712922073654 Lismore race-7
+False 1.2527060269263488 Mount Gambier race-7
+False 1.2668456084918756 Warragul race-1
+False 1.125875867652598 Shepparton race-3
+False 1.2304227947128805 Dubbo race-1
+False 1.1384873761669247 Lismore race-7
+False 1.1918299092212135 Mount Gambier race-8
+False 1.2668456084918756 Warragul race-1
+False 1.2384599014983437 Shepparton race-4
+False 1.2304227947128805 Dubbo race-1
+False 1.2130077327982973 Lismore race-8
+False 1.1918299092212135 Mount Gambier race-8
+False 1.2668456084918756 Warragul race-1
+False 1.2074740453565633 Shepparton race-4
+False 1.2304227947128805 Dubbo race-1
+False 1.2130077327982973 Lismore race-8
+False 1.1918299092212135 Mount Gambier race-8
+False 1.2668456084918756 Warragul race-1
+False 1.1901456158643346 Shepparton race-4
+False 1.2304227947128805 Dubbo race-1
+False 1.2130077327982973 Lismore race-8
+False 1.1918299092212135 Mount Gambier race-8
+False 1.2668456084918756 Warragul race-1
+False 1.1685313614294601 Shepparton race-4
+False 1.2304227947128805 Dubbo race-1
+False 1.2130077327982973 Lismore race-8
+False 1.1918299092212135 Mount Gambier race-8
+False 1.2668456084918756 Warragul race-1
+False 1.2505086976888506 Shepparton race-5
+False 1.2304227947128805 Dubbo race-1
+False 1.2130077327982973 Lismore race-8
+False 1.1710728884641928 Mount Gambier race-8
+False 1.2668456084918756 Warragul race-1
+False 1.2505086976888506 Shepparton race-5
+False 1.2304227947128805 Dubbo race-1
+False 1.2046043714537595 Lismore race-8
+False 1.1682111668524713 Mount Gambier race-8
+False 1.2668456084918756 Warragul race-1
+False 1.2505086976888506 Shepparton race-5
+False 1.2304227947128805 Dubbo race-1
+False 1.190248355972001 Lismore race-8
+False 1.1735241721654763 Mount Gambier race-8
+False 1.2668456084918756 Warragul race-1
+False 1.2543138727269023 Shepparton race-5
+False 1.2304227947128805 Dubbo race-1
+False 1.1858171433829328 Lismore race-8
+False 1.075560812464312 Mount Gambier race-8
+False 1.2668456084918756 Warragul race-1
+False 1.2543138727269023 Shepparton race-5
+False 1.2304227947128805 Dubbo race-1
+False 1.1611584618215656 Lismore race-8
+False 1.0983045087904424 Mount Gambier race-8
+False 1.2668456084918756 Warragul race-1
+False 1.2457573870093541 Shepparton race-5
+False 1.2292032825177586 Dubbo race-1
+False 1.0882591581200296 Lismore race-8
+False 1.2112910864829025 Mount Gambier race-9
+False 1.2668456084918756 Warragul race-1
+False 1.2163765238258177 Shepparton race-5
+False 1.2292032825177586 Dubbo race-1
+False 1.224650091412105 Lismore race-9
+False 1.2112910864829025 Mount Gambier race-9
+False 1.2679530282039464 Warragul race-1
+False 1.1166685062533923 Shepparton race-5
+False 1.2304227947128805 Dubbo race-1
+False 1.224650091412105 Lismore race-9
+False 1.189637207540021 Mount Gambier race-9
+False 1.2679530282039464 Warragul race-1
+False 1.2275056183909872 Shepparton race-6
+False 1.2304227947128805 Dubbo race-1
+False 1.2281424174850764 Lismore race-9
+False 1.0901072124756337 Mount Gambier race-9
+False 1.2238494170043885 Warragul race-1
+False 1.2220896318274597 Shepparton race-6
+False 1.2304227947128805 Dubbo race-1
+False 1.2208855234357294 Lismore race-9
+False 1.1028805427782409 Mount Gambier race-9
+False 1.1718321124974551 Warragul race-1
+False 1.2271962536007481 Shepparton race-6
+False 1.2304227947128805 Dubbo race-1
+False 1.213897403240062 Lismore race-9
+False 1.141147741147741 Mount Gambier race-10
+False 1.266164426751001 Warragul race-2
+False 1.1767785822649892 Shepparton race-6
+False 1.2304227947128805 Dubbo race-1
+False 1.1868189308888661 Lismore race-9
+False 1.141147741147741 Mount Gambier race-10
+False 1.2819734723565583 Warragul race-2
+False 1.0770782703839967 Shepparton race-6
+False 1.2249761716191985 Dubbo race-1
+False 1.1695000630432202 Lismore race-9
+False 1.1369810744810744 Mount Gambier race-10
+False 1.2819734723565583 Warragul race-2
+False 1.0380293297737295 Shepparton race-6
+False 1.2237566594240765 Dubbo race-1
+False 1.1531148002385725 Lismore race-9
+False 1.122315592903828 Mount Gambier race-10
+False 1.2714046945840145 Warragul race-2
+False 1.264009609866705 Shepparton race-7
+False 1.2091065144037945 Dubbo race-1
+False 1.2039525338399086 Lismore race-10
+False 1.1333046038928392 Mount Gambier race-10
+False 1.2730978371222275 Warragul race-2
+False 1.264009609866705 Shepparton race-7
+False 1.2058485290970153 Dubbo race-1
+False 1.2039525338399086 Lismore race-10
+False 1.1112413957831193 Mount Gambier race-10
+False 1.2730978371222275 Warragul race-2
+False 1.264009609866705 Shepparton race-7
+False 1.1774814561163003 Dubbo race-1
+False 1.2039525338399086 Lismore race-10
+False 1.0571797711332596 Mount Gambier race-10
+False 1.2809656577359174 Warragul race-2
+False 1.264009609866705 Shepparton race-7
+False 1.134679814865985 Dubbo race-1
+False 1.2039525338399086 Lismore race-10
+False 1.2528447119219646 Mount Gambier race-11
+False 1.2523355130416556 Warragul race-2
+False 1.264009609866705 Shepparton race-7
+False 1.0596027658695517 Dubbo race-1
+False 1.201106234029662 Lismore race-10
+False 1.2528447119219646 Mount Gambier race-11
+False 1.2504352224089705 Warragul race-2
+False 1.264009609866705 Shepparton race-7
+False 1.2190678450596373 Dubbo race-2
+False 1.2086138126579304 Lismore race-10
+False 1.2571072865170199 Mount Gambier race-11
+False 1.2031689048654666 Warragul race-2
+False 1.264009609866705 Shepparton race-7
+False 1.2190678450596373 Dubbo race-2
+False 1.2081058903476825 Lismore race-10
+False 1.2571072865170199 Mount Gambier race-11
+False 1.108008556009318 Warragul race-2
+False 1.264009609866705 Shepparton race-7
+False 1.216736842728635 Dubbo race-2
+False 1.1677579365079365 Lismore race-10
+False 1.224348773735624 Mount Gambier race-11
+False 1.2418182513482146 Warragul race-3
+False 1.2332043344307868 Shepparton race-7
+False 1.2190678450596373 Dubbo race-2
+False 1.108916761789675 Lismore race-10
+False 1.1888903904622456 Mount Gambier race-11
+False 1.2418182513482146 Warragul race-3
+False 1.2224830957342565 Shepparton race-7
+False 1.1991544251462174 Dubbo race-2
+False 1.144573369393957 Lismore race-10
+False 1.1887875443921565 Mount Gambier race-11
+False 1.2401948747248381 Warragul race-3
+False 1.1353455518509699 Shepparton race-7
+False 1.2005266378391848 Dubbo race-2
+False 1.1951903983128347 Mount Gambier race-11
+False 1.2418182513482146 Warragul race-3
+False 1.0756432144536552 Shepparton race-7
+False 1.1898565567465684 Dubbo race-2
+False 1.1940510804059086 Mount Gambier race-11
+False 1.2424916520216154 Warragul race-3
+False 1.2320008415641779 Shepparton race-8
+False 1.101092695752119 Dubbo race-2
+False 1.1717505622843223 Mount Gambier race-11
+False 1.2216370854077154 Warragul race-3
+False 1.2320008415641779 Shepparton race-8
+False 1.2776637471408934 Dubbo race-3
+False 1.1685614716839081 Mount Gambier race-11
+False 1.2446785600620935 Warragul race-3
+False 1.2320008415641779 Shepparton race-8
+False 1.2776637471408934 Dubbo race-3
+False 1.2567403323061803 Mount Gambier race-12
+False 1.187458440406428 Warragul race-3
+False 1.2320008415641779 Shepparton race-8
+False 1.2730306856138365 Dubbo race-3
+False 1.2567403323061803 Mount Gambier race-12
+False 1.1690327441359885 Warragul race-3
+False 1.2320008415641779 Shepparton race-8
+False 1.2730306856138365 Dubbo race-3
+False 1.2567403323061803 Mount Gambier race-12
+False 1.1538992552370897 Warragul race-3
+False 1.2320008415641779 Shepparton race-8
+False 1.2730306856138365 Dubbo race-3
+False 1.2567403323061803 Mount Gambier race-12
+False 1.1746482422475333 Warragul race-4
+False 1.2204207576600823 Shepparton race-8
+False 1.2730306856138365 Dubbo race-3
+False 1.2567403323061803 Mount Gambier race-12
+False 1.1746482422475333 Warragul race-4
+False 1.2056309498001767 Shepparton race-8
+False 1.2730306856138365 Dubbo race-3
+False 1.2567403323061803 Mount Gambier race-12
+False 1.1622289675331765 Warragul race-4
+False 1.177575738371663 Shepparton race-8
+False 1.2730306856138365 Dubbo race-3
+False 1.2559951758233185 Mount Gambier race-12
+False 1.1622289675331765 Warragul race-4
+False 1.0732469052398894 Shepparton race-8
+False 1.273756375018771 Dubbo race-3
+False 1.2072878794746489 Mount Gambier race-12
+False 1.1622289675331765 Warragul race-4
+True 0.9925436406267932 Shepparton race-8
+False 1.2573733624913277 Dubbo race-3
+False 1.206409909896841 Mount Gambier race-12
+False 1.1622289675331765 Warragul race-4
+False 1.2304711005973925 Shepparton race-9
+False 1.2293153867953799 Dubbo race-3
+False 1.181949941435849 Mount Gambier race-12
+False 1.1622289675331765 Warragul race-4
+False 1.2304711005973925 Shepparton race-9
+False 1.1966061338109102 Dubbo race-3
+False 1.1622289675331765 Warragul race-4
+False 1.2304711005973925 Shepparton race-9
+False 1.1516694896297432 Dubbo race-3
+False 1.1622289675331765 Warragul race-4
+False 1.2304711005973925 Shepparton race-9
+False 1.2466314796601357 Dubbo race-4
+False 1.1622289675331765 Warragul race-4
+False 1.2304711005973925 Shepparton race-9
+False 1.2466314796601357 Dubbo race-4
+False 1.1622289675331765 Warragul race-4
+False 1.2361408383720203 Shepparton race-9
+False 1.2466314796601357 Dubbo race-4
+False 1.1323157793964056 Warragul race-4
+False 1.2083374888556446 Shepparton race-9
+False 1.2466314796601357 Dubbo race-4
+False 1.0723546534860044 Warragul race-4
+False 1.2083374888556446 Shepparton race-9
+False 1.2466314796601357 Dubbo race-4
+False 1.1372539669033297 Warragul race-4
+False 1.1799886854120039 Shepparton race-9
+False 1.2510372315299598 Dubbo race-4
+False 1.2437990856892367 Warragul race-5
+False 1.13520745630561 Shepparton race-9
+False 1.2316491709471769 Dubbo race-4
+False 1.2343692611278332 Warragul race-5
+False 1.0558313338187553 Shepparton race-9
+False 1.2277145962832452 Dubbo race-4
+False 1.2343692611278332 Warragul race-5
+False 1.2464953902519595 Shepparton race-10
+False 1.225279106858054 Dubbo race-4
+False 1.2658714171913927 Warragul race-5
+False 1.2464953902519595 Shepparton race-10
+False 1.1820953784018078 Dubbo race-4
+False 1.2624537821948105 Warragul race-5
+False 1.243763149814801 Shepparton race-10
+False 1.1238292171584705 Dubbo race-4
+False 1.2624537821948105 Warragul race-5
+False 1.243763149814801 Shepparton race-10
+False 1.2400703591001168 Dubbo race-5
+False 1.2624537821948105 Warragul race-5
+False 1.243763149814801 Shepparton race-10
+False 1.2471082839879402 Dubbo race-5
+False 1.2574412508664894 Warragul race-5
+False 1.243763149814801 Shepparton race-10
+False 1.2777423727160717 Dubbo race-5
+False 1.2188569956155677 Warragul race-5
+False 1.243763149814801 Shepparton race-10
+False 1.2662481198425086 Dubbo race-5
+False 1.2001151243691737 Warragul race-5
+False 1.243763149814801 Shepparton race-10
+False 1.2639105789355427 Dubbo race-5
+False 1.13658597691423 Warragul race-5
+False 1.243763149814801 Shepparton race-10
+False 1.2639105789355427 Dubbo race-5
+False 1.2531859619882426 Warragul race-6
+False 1.2457752222494087 Shepparton race-10
+False 1.2684430276563805 Dubbo race-5
+False 1.2528817204414366 Warragul race-6
+False 1.2393649658391521 Shepparton race-10
+False 1.2684430276563805 Dubbo race-5
+False 1.2516211525286964 Warragul race-6
+False 1.2173719315510358 Shepparton race-10
+False 1.2684430276563805 Dubbo race-5
+False 1.255682840889616 Warragul race-6
+False 1.2046955234520926 Shepparton race-10
+False 1.2684430276563805 Dubbo race-5
+False 1.2516211525286964 Warragul race-6
+False 1.1049919216585882 Shepparton race-10
+False 1.270697909252285 Dubbo race-5
+False 1.2531859619882426 Warragul race-6
+False 1.1325260070358112 Shepparton race-10
+False 1.270697909252285 Dubbo race-5
+False 1.2507439595462402 Warragul race-6
+False 1.250091685722915 Shepparton race-11
+False 1.2233793559720403 Dubbo race-5
+False 1.2516464440712047 Warragul race-6
+False 1.2447566451766068 Shepparton race-11
+False 1.2887054712353656 Warrnambool race-1
+False 1.1951534177147993 Dubbo race-5
+False 1.2427533210651784 Warragul race-6
+False 1.2447566451766068 Shepparton race-11
+False 1.2887054712353656 Warrnambool race-1
+False 1.1186439272309603 Dubbo race-5
+False 1.1989629408609235 Warragul race-6
+False 1.2447566451766068 Shepparton race-11
+False 1.2887054712353656 Warrnambool race-1
+False 1.248557842453514 Dubbo race-6
+False 1.1575370212665297 Warragul race-6
+False 1.2447566451766068 Shepparton race-11
+False 1.2887054712353656 Warrnambool race-1
+False 1.248557842453514 Dubbo race-6
+False 1.1237638125294829 Warragul race-6
+False 1.2401235836495497 Shepparton race-11
+False 1.2887054712353656 Warrnambool race-1
+False 1.243222801907206 Dubbo race-6
+False 1.2660176793676179 Warragul race-7
+False 1.2240515810780292 Shepparton race-11
+False 1.2887054712353656 Warrnambool race-1
+False 1.2344693005066456 Dubbo race-6
+False 1.2660176793676179 Warragul race-7
+False 1.155440637793579 Shepparton race-11
+False 1.2887054712353656 Warrnambool race-1
+False 1.2293221017007454 Dubbo race-6
+False 1.2609671743171127 Warragul race-7
+False 1.0856079700066505 Shepparton race-11
+False 1.2887054712353656 Warrnambool race-1
+False 1.2293221017007454 Dubbo race-6
+False 1.2609671743171127 Warragul race-7
+False 1.0291171701238635 Shepparton race-11
+False 1.2887054712353656 Warrnambool race-1
+False 1.2435760413932815 Dubbo race-6
+False 1.2609671743171127 Warragul race-7
+False 1.2361055567056927 Shepparton race-12
+False 1.2887054712353656 Warrnambool race-1
+False 1.2601520579692982 Dubbo race-6
+False 1.2609671743171127 Warragul race-7
+False 1.2361055567056927 Shepparton race-12
+False 1.277161334717303 Warrnambool race-1
+False 1.2104456105442323 Dubbo race-6
+False 1.2609671743171127 Warragul race-7
+False 1.2361055567056927 Shepparton race-12
+False 1.2813298066277101 Warrnambool race-1
+False 1.1381632967786055 Dubbo race-6
+False 1.2565127655079387 Warragul race-7
+False 1.2361055567056927 Shepparton race-12
+False 1.2813298066277101 Warrnambool race-1
+False 1.0986676986918416 Dubbo race-6
+False 1.2609671743171127 Warragul race-7
+False 1.2274114165561536 Shepparton race-12
+False 1.2813298066277101 Warrnambool race-1
+False 1.2764587474433209 Dubbo race-7
+False 1.2536720003552722 Warragul race-7
+False 1.2274114165561536 Shepparton race-12
+False 1.2813298066277101 Warrnambool race-1
+False 1.2764587474433209 Dubbo race-7
+False 1.2208131843659624 Warragul race-7
+False 1.2274114165561536 Shepparton race-12
+False 1.2813298066277101 Warrnambool race-1
+False 1.2756871425050493 Dubbo race-7
+False 1.1709576507370625 Warragul race-7
+False 1.23376062290536 Shepparton race-12
+False 1.2813298066277101 Warrnambool race-1
+False 1.2764587474433209 Dubbo race-7
+False 1.1099507917206561 Warragul race-7
+False 1.2366223445170816 Shepparton race-12
+False 1.2813298066277101 Warrnambool race-1
+False 1.2764587474433209 Dubbo race-7
+False 1.2466649326639867 Warragul race-8
+False 1.2193283751016935 Shepparton race-12
+False 1.2813298066277101 Warrnambool race-1
+False 1.2756871425050493 Dubbo race-7
+False 1.2466649326639867 Warragul race-8
+False 1.1973912952527295 Shepparton race-12
+False 1.2813298066277101 Warrnambool race-1
+False 1.2699331465635815 Dubbo race-7
+False 1.2466649326639867 Warragul race-8
+False 1.1739104506109412 Shepparton race-12
+False 1.2813298066277101 Warrnambool race-1
+False 1.217408749708065 Dubbo race-7
+False 1.2466649326639867 Warragul race-8
+False 1.1241326944791077 Shepparton race-12
+False 1.2813298066277101 Warrnambool race-1
+False 1.170605937272604 Dubbo race-7
+False 1.2466649326639867 Warragul race-8
+False 1.2813298066277101 Warrnambool race-1
+False 1.1281218333012466 Dubbo race-7
+False 1.2475900020441901 Warragul race-8
+False 1.2813298066277101 Warrnambool race-1
+False 1.2681478892908629 Dubbo race-8
+False 1.2168493991529843 Warragul race-8
+False 1.2813298066277101 Warrnambool race-1
+False 1.2681478892908629 Dubbo race-8
+False 1.202849957734188 Warragul race-8
+False 1.2898332079882546 Warrnambool race-1
+False 1.2605174296996189 Dubbo race-8
+False 1.1887012851655423 Warragul race-8
+False 1.2813298066277101 Warrnambool race-1
+False 1.2605174296996189 Dubbo race-8
+False 1.1520723428618165 Warragul race-8
+False 1.2813298066277101 Warrnambool race-1
+False 1.2605174296996189 Dubbo race-8
+False 1.1893378127249095 Sandown Park race-1
+False 1.2770546116202957 Warragul race-9
+False 1.2813298066277101 Warrnambool race-1
+False 1.2790997013179437 Dubbo race-8
+False 1.1893378127249095 Sandown Park race-1
+False 1.2784226006763832 Warragul race-9
+False 1.2745994586624412 Warrnambool race-1
+False 1.2731986605497303 Dubbo race-8
+False 1.1893378127249095 Sandown Park race-1
+False 1.2784226006763832 Warragul race-9
+False 1.231912427121209 Warrnambool race-1
+False 1.268177139746287 Dubbo race-8
+False 1.1893378127249095 Sandown Park race-1
+False 1.2842323319763107 Warragul race-9
+False 1.1532664678774736 Warrnambool race-1
+False 1.2391247057124943 Dubbo race-8
+False 1.1893378127249095 Sandown Park race-1
+False 1.2842323319763107 Warragul race-9
+False 1.124207093719289 Warrnambool race-1
+False 1.1631099573770545 Dubbo race-8
+False 1.1893378127249095 Sandown Park race-1
+False 1.2784226006763832 Warragul race-9
+False 1.2675535494372945 Warrnambool race-2
+False 1.0596315454631409 Dubbo race-8
+False 1.1893378127249095 Sandown Park race-1
+False 1.2784226006763832 Warragul race-9
+False 1.268921538493382 Warrnambool race-2
+False 1.274431417651019 Dubbo race-9
+False 1.1893378127249095 Sandown Park race-1
+False 1.2382733255798073 Warragul race-9
+False 1.268921538493382 Warrnambool race-2
+False 1.274431417651019 Dubbo race-9
+False 1.1893378127249095 Sandown Park race-1
+False 1.22514297222389 Warragul race-9
+False 1.268921538493382 Warrnambool race-2
+False 1.274431417651019 Dubbo race-9
+False 1.1893378127249095 Sandown Park race-1
+False 1.1778578332913119 Warragul race-9
+False 1.268921538493382 Warrnambool race-2
+False 1.2765147509843524 Dubbo race-9
+False 1.1893378127249095 Sandown Park race-1
+False 1.1362335939837713 Warragul race-9
+False 1.268921538493382 Warrnambool race-2
+False 1.2765147509843524 Dubbo race-9
+False 1.1893378127249095 Sandown Park race-1
+False 1.2644336522453283 Warragul race-10
+False 1.268921538493382 Warrnambool race-2
+False 1.2765147509843524 Dubbo race-9
+False 1.1893378127249095 Sandown Park race-1
+False 1.2644336522453283 Warragul race-10
+False 1.249303892029418 Warrnambool race-2
+False 1.2765147509843524 Dubbo race-9
+False 1.1893378127249095 Sandown Park race-1
+False 1.2644336522453283 Warragul race-10
+False 1.195368575155917 Warrnambool race-2
+False 1.2552847382098993 Dubbo race-9
+False 1.1893378127249095 Sandown Park race-1
+False 1.2644336522453283 Warragul race-10
+False 1.1781148317913024 Warrnambool race-2
+False 1.2338867127572297 Dubbo race-9
+False 1.1893378127249095 Sandown Park race-1
+False 1.2644336522453283 Warragul race-10
+False 1.0901369971491923 Warrnambool race-2
+False 1.2215475607313893 Dubbo race-9
+False 1.1893378127249095 Sandown Park race-1
+False 1.2644336522453283 Warragul race-10
+False 1.2607349948681967 Warrnambool race-3
+False 1.1023003351497684 Dubbo race-9
+False 1.1893378127249095 Sandown Park race-1
+False 1.2644336522453283 Warragul race-10
+False 1.2607349948681967 Warrnambool race-3
+False 1.2643432956567464 Dubbo race-10
+False 1.1893378127249095 Sandown Park race-1
+False 1.2644336522453283 Warragul race-10
+False 1.2336083895090721 Warrnambool race-3
+False 1.2580923189416346 Dubbo race-10
+False 1.1893378127249095 Sandown Park race-1
+False 1.2182681281930696 Albion Park race-1
+False 1.239351701364035 Warragul race-10
+False 1.2314978230602704 Warrnambool race-3
+False 1.2580923189416346 Dubbo race-10
+False 1.1893378127249095 Sandown Park race-1
+False 1.2182681281930696 Albion Park race-1
+False 1.234534358931277 Warragul race-10
+False 1.2194417659796044 Warrnambool race-3
+False 1.253269743948487 Hobart race-1
+False 1.2580923189416346 Dubbo race-10
+False 1.1893378127249095 Sandown Park race-1
+False 1.2182681281930696 Albion Park race-1
+False 1.1901960784313728 Warragul race-10
+False 1.2350907675157026 Warrnambool race-3
+False 1.253269743948487 Hobart race-1
+False 1.2580923189416346 Dubbo race-10
+False 1.1893378127249095 Sandown Park race-1
+False 1.2182681281930696 Albion Park race-1
+False 1.12712033115265 Warragul race-10
+False 1.2240788627537977 Warrnambool race-3
+False 1.253269743948487 Hobart race-1
+False 1.2580923189416346 Dubbo race-10
+False 1.1893378127249095 Sandown Park race-1
+False 1.2202802006276772 Albion Park race-1
+False 1.1234903419671987 Warragul race-10
+False 1.212042818028331 Warrnambool race-3
+False 1.253269743948487 Hobart race-1
+False 1.2668473180722206 Dubbo race-10
+False 1.1893378127249095 Sandown Park race-1
+False 1.2202802006276772 Albion Park race-1
+False 1.1860947379702067 Angle Park race-1
+False 1.2484011409718956 Warragul race-11
+False 1.157072057980494 Warrnambool race-3
+False 1.253269743948487 Hobart race-1
+False 1.2122955696216322 Dapto race-1
+False 1.194039641520107 Dubbo race-10
+False 1.1893378127249095 Sandown Park race-1
+False 1.2144430270485682 Albion Park race-1
+False 1.1860947379702067 Angle Park race-1
+False 1.2382023456853812 Warragul race-11
+False 1.2414810478644092 Warrnambool race-4
+False 1.253269743948487 Hobart race-1
+False 1.2122955696216322 Dapto race-1
+False 1.0997090548837862 Dubbo race-10
+False 1.181380857399533 Sandown Park race-1
+False 1.2144430270485682 Albion Park race-1
+False 1.1860947379702067 Angle Park race-1
+False 1.2382023456853812 Warragul race-11
+False 1.2366637054316514 Warrnambool race-4
+False 1.253269743948487 Hobart race-1
+False 1.2122955696216322 Dapto race-1
+False 1.2598229605729419 Dubbo race-11
+False 1.1485356551937307 Sandown Park race-1
+False 1.2144430270485682 Albion Park race-1
+False 1.1860947379702067 Angle Park race-1
+False 1.2487323562153916 Warragul race-11
+False 1.2366637054316514 Warrnambool race-4
+False 1.253269743948487 Hobart race-1
+False 1.2122955696216322 Dapto race-1
+False 1.2476278386217226 Dubbo race-11
+False 1.100689826604083 Sandown Park race-1
+False 1.2144430270485682 Albion Park race-1
+False 1.1860947379702067 Angle Park race-1
+False 1.2487323562153916 Warragul race-11
+False 1.2366637054316514 Warrnambool race-4
+False 1.253269743948487 Hobart race-1
+False 1.2122955696216322 Dapto race-1
+False 1.2476278386217226 Dubbo race-11
+False 1.0874397864760526 Sandown Park race-1
+False 1.218095995085098 Albion Park race-1
+False 1.1860947379702067 Angle Park race-1
+False 1.2531603780897822 Warragul race-11
+False 1.2366637054316514 Warrnambool race-4
+False 1.253269743948487 Hobart race-1
+False 1.2122955696216322 Dapto race-1
+False 1.2557684621178857 Dubbo race-11
+False 1.1791022943430611 Sandown Park race-2
+False 1.218095995085098 Albion Park race-1
+False 1.1860947379702067 Angle Park race-1
+False 1.2307647422299517 Warragul race-11
+False 1.2349804905701418 Warrnambool race-4
+False 1.253269743948487 Hobart race-1
+False 1.2122955696216322 Dapto race-1
+False 1.2557684621178857 Dubbo race-11
+False 1.1791022943430611 Sandown Park race-2
+False 1.218095995085098 Albion Park race-1
+False 1.1860947379702067 Angle Park race-1
+False 1.1862487782677553 Warragul race-11
+False 1.2589999588301302 Warrnambool race-4
+False 1.253269743948487 Hobart race-1
+False 1.2122955696216322 Dapto race-1
+False 1.2554709758766245 Dubbo race-11
+False 1.1791022943430611 Sandown Park race-2
+False 1.218095995085098 Albion Park race-1
+False 1.1860947379702067 Angle Park race-1
+False 1.0846933491825148 Warragul race-11
+False 1.2179923086703741 Warrnambool race-4
+False 1.253269743948487 Hobart race-1
+False 1.2122955696216322 Dapto race-1
+False 1.244391899297636 Dubbo race-11
+False 1.1791022943430611 Sandown Park race-2
+False 1.218095995085098 Albion Park race-1
+False 1.1860947379702067 Angle Park race-1
+False 1.2196599537523887 Warragul race-12
+False 1.150423492765904 Warrnambool race-4
+False 1.253269743948487 Hobart race-1
+False 1.2122955696216322 Dapto race-1
+False 1.1897701360712798 Dubbo race-11
+False 1.1618024587304059 Sandown Park race-2
+False 1.218095995085098 Albion Park race-1
+False 1.1860947379702067 Angle Park race-1
+False 1.2184389525313875 Warragul race-12
+False 1.1140856599183546 Warrnambool race-4
+False 1.253269743948487 Hobart race-1
+False 1.2122955696216322 Dapto race-1
+False 1.0918734045459773 Dubbo race-11
+False 1.1617292751971975 Sandown Park race-2
+False 1.2116478176642116 Albion Park race-1
+False 1.1794154180464171 Angle Park race-1
+False 1.2142722858647208 Warragul race-12
+False 1.2550293238235597 Warrnambool race-5
+False 1.253269743948487 Hobart race-1
+False 1.2122955696216322 Dapto race-1
+False 1.117014449538581 Sandown Park race-2
+False 1.202589846649719 Albion Park race-1
+False 1.1766831776092588 Angle Park race-1
+False 1.2152823868748217 Warragul race-12
+False 1.2550293238235597 Warrnambool race-5
+False 1.253269743948487 Hobart race-1
+False 1.2122955696216322 Dapto race-1
+False 1.0458624774474523 Sandown Park race-2
+False 1.2040122543117548 Albion Park race-1
+False 1.183154856337035 Angle Park race-1
+False 1.1997480416191142 Warragul race-12
+False 1.2550293238235597 Warrnambool race-5
+False 1.253269743948487 Hobart race-1
+False 1.2122955696216322 Dapto race-1
+False 1.214080305853749 Sandown Park race-3
+False 1.2040122543117548 Albion Park race-1
+False 1.183154856337035 Angle Park race-1
+False 1.1914861437175461 Warragul race-12
+False 1.2550293238235597 Warrnambool race-5
+False 1.253269743948487 Hobart race-1
+False 1.2122955696216322 Dapto race-1
+False 1.214080305853749 Sandown Park race-3
+False 1.2040122543117548 Albion Park race-1
+False 1.183154856337035 Angle Park race-1
+False 1.1255324397916715 Warragul race-12
+False 1.2394270260385294 Warrnambool race-5
+False 1.2550241299133993 Hobart race-1
+False 1.2122955696216322 Dapto race-1
+False 1.2191363044301506 Sandown Park race-3
+False 1.2040122543117548 Albion Park race-1
+False 1.183154856337035 Angle Park race-1
+False 1.0525543907698964 Warragul race-12
+False 1.2048485299605154 Warrnambool race-5
+False 1.2550241299133993 Hobart race-1
+False 1.2122955696216322 Dapto race-1
+False 1.2191363044301506 Sandown Park race-3
+False 1.2021931955958383 Albion Park race-1
+False 1.183154856337035 Angle Park race-1
+False 1.1464817440623891 Warrnambool race-5
+False 1.2550241299133993 Hobart race-1
+False 1.2122955696216322 Dapto race-1
+False 1.2191363044301506 Sandown Park race-3
+False 1.1679778872579827 Albion Park race-1
+False 1.183154856337035 Angle Park race-1
+False 1.1277813505436105 Warrnambool race-5
+False 1.2404577007102815 Hobart race-1
+False 1.2192865091302274 Dapto race-1
+False 1.2191363044301506 Sandown Park race-3
+False 1.111831960051774 Albion Park race-1
+False 1.1709597343858156 Angle Park race-1
+False 1.2354099051190939 Warrnambool race-6
+False 1.1785091628462196 Hobart race-1
+False 1.217146246260048 Dapto race-1
+False 1.1938256189981913 Sandown Park race-3
+False 1.1816557317022909 Albion Park race-2
+False 1.1709597343858156 Angle Park race-1
+False 1.2219315378097162 Warrnambool race-6
+False 1.0903110118883421 Hobart race-1
+False 1.217146246260048 Dapto race-1
+False 1.1938256189981913 Sandown Park race-3
+False 1.1816557317022909 Albion Park race-2
+False 1.1792930677191489 Angle Park race-1
+False 1.260044447390172 Mandurah race-1
+False 1.220177151844804 Warrnambool race-6
+False 1.2438592875095384 Hobart race-2
+False 1.217146246260048 Dapto race-1
+False 1.1790134368970027 Sandown Park race-3
+False 1.176251401148942 Albion Park race-2
+False 1.1706789098497632 Angle Park race-1
+False 1.2569356317882359 Mandurah race-1
+False 1.220177151844804 Warrnambool race-6
+False 1.2438592875095384 Hobart race-2
+False 1.2157782572039606 Dapto race-1
+False 1.073331626583283 Sandown Park race-3
+False 1.1735728297203705 Albion Park race-2
+False 1.1477209603021277 Angle Park race-1
+False 1.2569356317882359 Mandurah race-1
+False 1.231166162833815 Warrnambool race-6
+False 1.2438592875095384 Hobart race-2
+False 1.2067106686305022 Dapto race-1
+False 1.2165642871274016 Sandown Park race-4
+False 1.1706384880763514 Albion Park race-2
+False 1.0357537074486012 Angle Park race-1
+False 1.2569356317882359 Mandurah race-1
+False 1.231166162833815 Warrnambool race-6
+False 1.2438592875095384 Hobart race-2
+False 1.1848595462919391 Dapto race-1
+False 1.2165642871274016 Sandown Park race-4
+False 1.172046578194119 Albion Park race-2
+True 0.9913127773117066 Angle Park race-1
+False 1.2569356317882359 Mandurah race-1
+False 1.2287229542502556 Warrnambool race-6
+False 1.2236541270828534 Hobart race-2
+False 1.1046158812893094 Dapto race-1
+False 1.2165642871274016 Sandown Park race-4
+False 1.187604381047004 Albion Park race-2
+False 1.1888500447551975 Angle Park race-2
+False 1.2569356317882359 Mandurah race-1
+False 1.1639807936178903 Warrnambool race-6
+False 1.2236541270828534 Hobart race-2
+False 1.2116263526624522 Dapto race-2
+False 1.2142280683589577 Sandown Park race-4
+False 1.1718442654918064 Albion Park race-2
+False 1.1888500447551975 Angle Park race-2
+False 1.2569356317882359 Mandurah race-1
+False 1.1133295282307363 Warrnambool race-6
+False 1.1835589416625951 Hobart race-2
+False 1.2116263526624522 Dapto race-2
+False 1.2056031852535234 Sandown Park race-4
+False 1.1664049975525386 Albion Park race-2
+False 1.1791882090064054 Angle Park race-2
+False 1.2569356317882359 Mandurah race-1
+False 1.2503790537082913 Warrnambool race-7
+False 1.270648251090606 Hobart race-3
+False 1.2116263526624522 Dapto race-2
+False 1.1911657140466034 Sandown Park race-4
+False 1.1296969314842877 Albion Park race-2
+False 1.1720580842292216 Angle Park race-2
+False 1.2569356317882359 Mandurah race-1
+False 1.2503790537082913 Warrnambool race-7
+False 1.270648251090606 Hobart race-3
+False 1.2116263526624522 Dapto race-2
+False 1.1150090090145293 Sandown Park race-4
+False 1.0604125581504005 Albion Park race-2
+False 1.150156216332687 Angle Park race-2
+False 1.2569356317882359 Mandurah race-1
+False 1.2503790537082913 Warrnambool race-7
+False 1.270648251090606 Hobart race-3
+False 1.212733772374523 Dapto race-2
+False 1.0887608119984116 Sandown Park race-4
+False 1.2031058859030321 Albion Park race-3
+False 1.1258886291816672 Angle Park race-2
+False 1.2569356317882359 Mandurah race-1
+False 1.2503790537082913 Warrnambool race-7
+False 1.2541725699090425 Hobart race-3
+False 1.212733772374523 Dapto race-2
+False 1.2228437110699668 Sandown Park race-5
+False 1.2031058859030321 Albion Park race-3
+False 1.0510381331159389 Angle Park race-2
+False 1.2569356317882359 Mandurah race-1
+False 1.2503790537082913 Warrnambool race-7
+????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????True 0 Hobart race-3
+False 1.212733772374523 Dapto race-2
+False 1.218026368637209 Sandown Park race-5
+False 1.2031058859030321 Albion Park race-3
+False 1.1806694164941587 Angle Park race-3
+False 1.2569356317882359 Mandurah race-1
+False 1.2503790537082913 Warrnambool race-7
+False 1.1652077698883816 Hobart race-3
+False 1.2095854553928445 Dapto race-2
+False 1.218026368637209 Sandown Park race-5
+False 1.1988303156537237 Albion Park race-3
+False 1.1806694164941587 Angle Park race-3
+False 1.2569356317882359 Mandurah race-1
+False 1.2524375897326718 Warrnambool race-7
+False 1.12980504356128 Hobart race-3
+False 1.1733268646527852 Dapto race-2
+False 1.2138597019705424 Sandown Park race-5
+False 1.1895796218516885 Albion Park race-3
+False 1.1761465761504228 Angle Park race-3
+False 1.2569356317882359 Mandurah race-1
+False 1.23637425781197 Warrnambool race-7
+False 1.2421754888815404 Hobart race-4
+False 1.0798821385815678 Dapto race-2
+False 1.1969781105275474 Sandown Park race-5
+False 1.180714373624738 Albion Park race-3
+False 1.1761465761504228 Angle Park race-3
+False 1.2569356317882359 Mandurah race-1
+False 1.1884742075775891 Warrnambool race-7
+????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????True 0 Hobart race-4
+False 1.211003577844393 Dapto race-3
+False 1.208318259122598 Sandown Park race-5
+False 1.1544582739148723 Albion Park race-3
+False 1.1761465761504228 Angle Park race-3
+False 1.2569356317882359 Mandurah race-1
+False 1.181731721073313 Warrnambool race-7
+False 1.2421754888815404 Hobart race-4
+False 1.211003577844393 Dapto race-3
+False 1.2032866168360539 Sandown Park race-5
+False 1.1294970021144426 Albion Park race-3
+False 1.1806694164941587 Angle Park race-3
+False 1.2569356317882359 Mandurah race-1
+False 1.0966301082400156 Warrnambool race-7
+False 1.2421754888815404 Hobart race-4
+False 1.211003577844393 Dapto race-3
+False 1.215289303354244 Sandown Park race-5
+False 1.0874815691966504 Albion Park race-3
+False 1.1761465761504228 Angle Park race-3
+False 1.2493598742124783 Mandurah race-1
+False 1.2552715182674143 Warrnambool race-8
+False 1.2421754888815404 Hobart race-4
+False 1.211003577844393 Dapto race-3
+False 1.181062231915128 Sandown Park race-5
+False 1.2072000581457474 Albion Park race-4
+False 1.161499657340559 Angle Park race-3
+False 1.2484680124510514 Mandurah race-1
+False 1.2613023066511437 Warrnambool race-8
+False 1.2421754888815404 Hobart race-4
+False 1.211003577844393 Dapto race-3
+False 1.0959547554389002 Sandown Park race-5
+False 1.2072000581457474 Albion Park race-4
+False 1.1577277445978753 Angle Park race-3
+False 1.2484680124510514 Mandurah race-1
+False 1.2613023066511437 Warrnambool race-8
+False 1.2233063530370463 Hobart race-4
+False 1.211003577844393 Dapto race-3
+False 1.2249779704295443 Sandown Park race-6
+False 1.2008838791983973 Albion Park race-4
+False 1.1166894353369763 Angle Park race-3
+False 1.2484680124510514 Mandurah race-1
+False 1.2613023066511437 Warrnambool race-8
+False 1.2086693506951258 Hobart race-4
+False 1.1884244269757684 Dapto race-3
+False 1.2257495753678158 Sandown Park race-6
+False 1.1999918981083963 Albion Park race-4
+False 1.1257413421960167 Angle Park race-3
+False 1.2484680124510514 Mandurah race-1
+False 1.2613023066511437 Warrnambool race-8
+False 1.1237941933376756 Hobart race-4
+False 1.191045181708608 Dapto race-3
+False 1.2257495753678158 Sandown Park race-6
+False 1.1999918981083963 Albion Park race-4
+False 1.19711716854574 Angle Park race-4
+False 1.2430957845057313 Mandurah race-1
+False 1.2613023066511437 Warrnambool race-8
+False 1.2254954475349211 Hobart race-5
+False 1.155032672788982 Dapto race-3
+False 1.2257495753678158 Sandown Park race-6
+False 1.2054563789827133 Albion Park race-4
+False 1.19711716854574 Angle Park race-4
+False 1.1851621824388041 Mandurah race-1
+False 1.2505709531778548 Warrnambool race-8
+False 1.2254954475349211 Hobart race-5
+False 1.2091430906987628 Dapto race-4
+False 1.2257495753678158 Sandown Park race-6
+False 1.2063483600727143 Albion Park race-4
+False 1.19711716854574 Angle Park race-4
+False 1.116293104639149 Mandurah race-1
+False 1.238666191273093 Warrnambool race-8
+False 1.2285196410833081 Hobart race-5
+False 1.2081078940113923 Dapto race-4
+False 1.2280805776988182 Sandown Park race-6
+False 1.1967915231470483 Albion Park race-4
+False 1.19711716854574 Angle Park race-4
+False 1.1372497468946248 Mandurah race-1
+False 1.1623097108243352 Warrnambool race-8
+False 1.2285196410833081 Hobart race-5
+False 1.2005321364356345 Dapto race-4
+False 1.2109859276201176 Sandown Park race-6
+False 1.1735028748621465 Albion Park race-4
+False 1.19711716854574 Angle Park race-4
+False 1.2380571588904923 Mandurah race-2
+False 1.1229928758384042 Warrnambool race-8
+False 1.2285196410833081 Hobart race-5
+False 1.2005321364356345 Dapto race-4
+False 1.172158088792279 Sandown Park race-6
+False 1.1308565732490303 Albion Park race-4
+False 1.1886473774672532 Angle Park race-4
+False 1.2210102847715212 Mandurah race-2
+False 1.271790591951611 Warrnambool race-9
+False 1.2432402027796763 Hobart race-5
+False 1.2005321364356345 Dapto race-4
+False 1.146492150510925 Sandown Park race-6
+False 1.207315010195892 Albion Park race-5
+False 1.1598877011145088 Angle Park race-4
+False 1.1891808106641866 Mandurah race-2
+False 1.271790591951611 Warrnambool race-9
+False 1.2457203615098351 Hobart race-5
+False 1.2015673331230052 Dapto race-4
+False 1.1082454395254333 Sandown Park race-6
+False 1.1984028697048041 Albion Park race-5
+False 1.1536788561690028 Angle Park race-4
+False 1.185300267424898 Mandurah race-2
+False 1.271790591951611 Warrnambool race-9
+False 1.2136365178031845 Hobart race-5
+False 1.20602664193014 Dapto race-4
+False 1.2165800312219748 Sandown Park race-7
+False 1.1974915003723823 Albion Park race-5
+False 1.0865486294496889 Angle Park race-4
+False 1.17788982524216 Mandurah race-2
+False 1.271790591951611 Warrnambool race-9
+False 1.1756485221345 Hobart race-5
+False 1.1914647318010487 Dapto race-4
+False 1.2165800312219748 Sandown Park race-7
+False 1.1883059243965912 Albion Park race-5
+False 1.2174962211395286 Angle Park race-5
+False 1.1186036669284092 Mandurah race-2
+False 1.2663261110772943 Warrnambool race-9
+False 1.1700564868540249 Hobart race-5
+False 1.1521440449875164 Dapto race-4
+False 1.2165800312219748 Sandown Park race-7
+False 1.1883059243965912 Albion Park race-5
+False 1.221637007889011 Angle Park race-5
+False 1.1066176470588236 Mandurah race-3
+False 1.2663261110772943 Warrnambool race-9
+False 1.1057654730710058 Hobart race-5
+False 1.0480087280015107 Dapto race-4
+False 1.2069159863466623 Sandown Park race-7
+False 1.1883059243965912 Albion Park race-5
+False 1.2258995824840666 Angle Park race-5
+False 1.1066176470588236 Mandurah race-3
+False 1.247440859466389 Warrnambool race-9
+False 1.2204572468991222 Hobart race-6
+True 0.9941373669143847 Dapto race-4
+False 1.2059099501293584 Sandown Park race-7
+False 1.185583262946763 Albion Park race-5
+False 1.2258995824840666 Angle Park race-5
+False 1.1066176470588236 Mandurah race-3
+False 1.2176492716252656 Warrnambool race-9
+False 1.2204572468991222 Hobart race-6
+False 1.1547106451952924 Dapto race-5
+False 1.2035724092223925 Sandown Park race-7
+False 1.1784858890291228 Albion Park race-5
+False 1.2258995824840666 Angle Park race-5
+False 1.092446856625961 Mandurah race-3
+False 1.1608882157269254 Warrnambool race-9
+False 1.2204572468991222 Hobart race-6
+False 1.160554497462707 Dapto race-5
+False 1.2059099501293584 Sandown Park race-7
+False 1.1089227606167995 Albion Park race-5
+False 1.2258995824840666 Angle Park race-5
+False 1.1272727272727272 Mandurah race-3
+False 1.246465117435687 Warrnambool race-10
+False 1.2204572468991222 Hobart race-6
+False 1.160554497462707 Dapto race-5
+False 1.184851142124768 Sandown Park race-7
+False 1.0329420072913398 Albion Park race-5
+False 1.2258995824840666 Angle Park race-5
+False 1.1369369369369369 Mandurah race-3
+False 1.246465117435687 Warrnambool race-10
+False 1.2204572468991222 Hobart race-6
+False 1.160554497462707 Dapto race-5
+False 1.1941642674428814 Sandown Park race-7
+False 1.2197139422960337 Albion Park race-6
+False 1.1991982739658864 Angle Park race-5
+False 1.057472276007745 Mandurah race-3
+False 1.2408406085076413 Warrnambool race-10
+False 1.2204572468991222 Hobart race-6
+False 1.160554497462707 Dapto race-5
+False 1.109812719550587 Sandown Park race-7
+False 1.2197139422960337 Albion Park race-6
+False 1.1945741953080913 Angle Park race-5
+False 1.1458975361164145 Mandurah race-4
+False 1.2408406085076413 Warrnambool race-10
+False 1.2043053209387522 Hobart race-6
+False 1.160554497462707 Dapto race-5
+False 1.2083325314764481 Sandown Park race-8
+False 1.2118708050411318 Albion Park race-6
+False 1.1625604596149852 Angle Park race-5
+False 1.1458975361164145 Mandurah race-4
+False 1.237593855260888 Warrnambool race-10
+False 1.1739554407395978 Hobart race-6
+False 1.1572760239199886 Dapto race-5
+False 1.2083325314764481 Sandown Park race-8
+False 1.2118708050411318 Albion Park race-6
+False 1.0692655049704207 Angle Park race-5
+False 1.1741643576008902 Mandurah race-4
+False 1.2408406085076413 Warrnambool race-10
+False 1.1169182194646075 Hobart race-6
+False 1.1594930459604764 Dapto race-5
+False 1.2083325314764481 Sandown Park race-8
+False 1.2197139422960337 Albion Park race-6
+False 1.1973086666755568 Angle Park race-6
+False 1.170356319165843 Mandurah race-4
+False 1.2259570190626483 Warrnambool race-10
+False 1.2254052363379455 Hobart race-7
+False 1.0642378397881211 Dapto race-5
+False 1.2083325314764481 Sandown Park race-8
+False 1.2047619464225583 Albion Park race-6
+False 1.1973086666755568 Angle Park race-6
+False 1.1486263736263735 Mandurah race-4
+False 1.208807501913131 Warrnambool race-10
+False 1.2136250616626312 Hobart race-7
+False 1.2091775938270701 Dapto race-6
+False 1.2083325314764481 Sandown Park race-8
+False 1.1965681391540128 Albion Park race-6
+False 1.1973086666755568 Angle Park race-6
+False 1.1112801926755416 Mandurah race-4
+False 1.1914634937522262 Warrnambool race-10
+False 1.2136250616626312 Hobart race-7
+False 1.2091775938270701 Dapto race-6
+False 1.208468639934451 Sandown Park race-8
+False 1.1590045316755215 Albion Park race-6
+False 1.194548132256125 Angle Park race-6
+False 1.2049211956362305 Mandurah race-5
+False 1.134284994472548 Warrnambool race-10
+False 1.2136250616626312 Hobart race-7
+False 1.2091775938270701 Dapto race-6
+False 1.1946936089444025 Sandown Park race-8
+False 1.095405622012264 Albion Park race-6
+False 1.2180822110198075 Angle Park race-6
+False 1.1947824600072987 Mandurah race-5
+False 1.2575290314260903 Warrnambool race-11
+False 1.2136250616626312 Hobart race-7
+False 1.2091775938270701 Dapto race-6
+False 1.145225131881817 Sandown Park race-8
+False 1.219748125747649 Albion Park race-7
+False 1.1929674020272747 Angle Park race-6
+False 1.2130259997732664 Mandurah race-5
+False 1.2659839725423219 Warrnambool race-11
+False 1.2208832725136562 Hobart race-7
+False 1.2091775938270701 Dapto race-6
+False 1.10849383189384 Sandown Park race-8
+False 1.2021084516837348 Albion Park race-7
+False 1.1644971340629227 Angle Park race-6
+False 1.2153058930029335 Mandurah race-5
+False 1.2618173058756552 Warrnambool race-11
+False 1.2052091583544575 Hobart race-7
+False 1.20009769067937 Dapto race-6
+False 1.2183555513920412 Sandown Park race-9
+False 1.198664972401702 Albion Park race-7
+False 1.0600372514164675 Angle Park race-6
+False 1.1391100037184403 Mandurah race-5
+False 1.2618173058756552 Warrnambool race-11
+False 1.1890050263778928 Hobart race-7
+False 1.1873385200254627 Dapto race-6
+False 1.2183555513920412 Sandown Park race-9
+False 1.183506918674223 Albion Park race-7
+False 1.2213548340245497 Angle Park race-7
+False 1.143870509932715 Mandurah race-5
+False 1.2618173058756552 Warrnambool race-11
+False 1.078786283888538 Hobart race-7
+False 1.1834815983809792 Dapto race-6
+False 1.2183555513920412 Sandown Park race-9
+False 1.183506918674223 Albion Park race-7
+False 1.2118310245007402 Angle Park race-7
+False 1.247552913986626 Mandurah race-6
+False 1.2426130142986949 Warrnambool race-11
+False 1.2627020734752161 Hobart race-8
+False 1.1450735674145522 Dapto race-6
+False 1.2183555513920412 Sandown Park race-9
+False 1.1710876439598665 Albion Park race-7
+False 1.2118310245007402 Angle Park race-7
+False 1.247552913986626 Mandurah race-6
+False 1.192595706358852 Warrnambool race-11
+False 1.2627020734752161 Hobart race-8
+False 1.1632342635763568 Dapto race-7
+False 1.2183555513920412 Sandown Park race-9
+False 1.1760048789888151 Albion Park race-7
+False 1.2201643578340735 Angle Park race-7
+False 1.247552913986626 Mandurah race-6
+False 1.119413591788508 Warrnambool race-11
+False 1.2627020734752161 Hobart race-8
+False 1.162771728886255 Dapto race-7
+False 1.2189037970060763 Sandown Park race-9
+False 1.148889376610527 Albion Park race-7
+False 1.2201643578340735 Angle Park race-7
+False 1.218143137978402 Mandurah race-6
+False 1.057023186771583 Warrnambool race-11
+False 1.2663737488082165 Hobart race-8
+False 1.1632342635763568 Dapto race-7
+False 1.1973376113786498 Sandown Park race-9
+False 1.0942509637946767 Albion Park race-7
+False 1.2201643578340735 Angle Park race-7
+False 1.1819060741548522 Mandurah race-6
+False 1.2458463028078643 Warrnambool race-12
+False 1.2733497262692903 Hobart race-8
+False 1.1632342635763568 Dapto race-7
+False 1.155249121652789 Sandown Park race-9
+False 1.196383419232633 Albion Park race-8
+False 1.203417856906229 Angle Park race-7
+False 1.072800899326645 Mandurah race-6
+False 1.2458463028078643 Warrnambool race-12
+False 1.2531559042343938 Hobart race-8
+False 1.1632342635763568 Dapto race-7
+False 1.1344349832557379 Sandown Park race-9
+False 1.192305995408828 Albion Park race-8
+False 1.1587251477812353 Angle Park race-7
+False 1.1139655954712662 Mandurah race-7
+False 1.2458463028078643 Warrnambool race-12
+False 1.213401960387667 Hobart race-8
+False 1.1544528983633264 Dapto race-7
+False 1.2184363631590083 Sandown Park race-10
+False 1.1765927978473274 Albion Park race-8
+False 1.086522578347993 Angle Park race-7
+False 1.0927053338818045 Mandurah race-7
+False 1.2458463028078643 Warrnambool race-12
+False 1.1632367733668407 Hobart race-8
+False 1.1687651582184735 Dapto race-7
+False 1.2184363631590083 Sandown Park race-10
+False 1.1773327164562806 Albion Park race-8
+False 1.2317477504136012 Angle Park race-8
+False 1.0713908525129547 Mandurah race-7
+False 1.2458463028078643 Warrnambool race-12
+False 1.258193645351095 Hobart race-9
+False 1.1407896262002943 Dapto race-7
+False 1.2009883974025795 Sandown Park race-10
+False 1.1951898593134234 Albion Park race-8
+False 1.2317477504136012 Angle Park race-8
+False 1.0617290167641624 Mandurah race-7
+False 1.2212708005470145 Warrnambool race-12
+False 1.258193645351095 Hobart race-9
+False 1.107825883701641 Dapto race-7
+False 1.2009883974025795 Sandown Park race-10
+False 1.1959297779223763 Albion Park race-8
+False 1.2317477504136012 Angle Park race-8
+False 1.0914351213775109 Mandurah race-7
+False 1.2151354847696816 Warrnambool race-12
+False 1.258193645351095 Hobart race-9
+False 1.2226522432494915 Dapto race-8
+False 1.194014935096529 Sandown Park race-10
+False 1.1927153774080723 Albion Park race-8
+False 1.2317477504136012 Angle Park race-8
+False 1.028584143684574 Mandurah race-7
+False 1.1816070107083854 Warrnambool race-12
+False 1.258193645351095 Hobart race-9
+False 1.2233779326544263 Dapto race-8
+False 1.1795534122740006 Sandown Park race-10
+False 1.195951830844556 Albion Park race-8
+False 1.2317477504136012 Angle Park race-8
+False 1.2265978697350763 Mandurah race-8
+False 1.1319299805969472 Warrnambool race-12
+False 1.258193645351095 Hobart race-9
+False 1.2233779326544263 Dapto race-8
+False 1.1910582026681098 Sandown Park race-10
+False 1.127904755600834 Albion Park race-8
+False 1.2053818405117096 Angle Park race-8
+False 1.2265978697350763 Mandurah race-8
+False 1.258193645351095 Hobart race-9
+False 1.2342035924162562 Dapto race-8
+False 1.050799150777902 Sandown Park race-10
+False 1.1518152879941497 Albion Park race-9
+False 1.2047179397043155 Angle Park race-8
+False 1.2265978697350763 Mandurah race-8
+False 1.258193645351095 Hobart race-9
+False 1.2342035924162562 Dapto race-8
+False 1.2257229109708754 Sandown Park race-11
+False 1.1518152879941497 Albion Park race-9
+False 1.1203714014179258 Angle Park race-8
+False 1.2265978697350763 Mandurah race-8
+False 1.2371160207299208 Hobart race-9
+False 1.2348769930896568 Dapto race-8
+False 1.2257229109708754 Sandown Park race-11
+False 1.1518152879941497 Albion Park race-9
+False 1.0405553148158113 Angle Park race-8
+False 1.2265978697350763 Mandurah race-8
+False 1.1990588219845342 Hobart race-9
+False 1.20940828782559 Dapto race-8
+False 1.2257229109708754 Sandown Park race-11
+False 1.1518152879941497 Albion Park race-9
+False 1.1917071731025217 Angle Park race-9
+False 1.2301469408249688 Mandurah race-8
+False 1.132017491957576 Hobart race-9
+False 1.19293311142042 Dapto race-8
+False 1.2353882486536107 Sandown Park race-11
+False 1.1518152879941497 Albion Park race-9
+False 1.1849731663685152 Angle Park race-9
+False 1.1913453918955899 Mandurah race-8
+False 1.2535426029664303 Hobart race-10
+False 1.145447317115754 Dapto race-8
+False 1.2399743883203957 Sandown Park race-11
+False 1.1518152879941497 Albion Park race-9
+False 1.1849731663685152 Angle Park race-9
+False 1.1306343496263507 Mandurah race-8
+False 1.2535426029664303 Hobart race-10
+False 1.2120069323929596 Dapto race-9
+False 1.2214408542071096 Sandown Park race-11
+False 1.135148621327483 Albion Park race-9
+False 1.1849731663685152 Angle Park race-9
+False 1.0252992590250312 Mandurah race-8
+False 1.2535426029664303 Hobart race-10
+False 1.2120069323929596 Dapto race-9
+False 1.2159630696666348 Sandown Park race-11
+False 1.1046627670250364 Albion Park race-9
+False 1.1849731663685152 Angle Park race-9
+True 0.9362836653332036 Mandurah race-8
+False 1.2535426029664303 Hobart race-10
+False 1.2120069323929596 Dapto race-9
+False 1.1982477294567229 Sandown Park race-11
+False 1.0626917433640122 Albion Park race-9
+False 1.1784796598750087 Angle Park race-9
+False 1.240186401510932 Mandurah race-9
+False 1.2535426029664303 Hobart race-10
+False 1.2120069323929596 Dapto race-9
+False 1.1920856039710983 Sandown Park race-11
+False 1.2080517825766888 Albion Park race-10
+False 1.173096722032892 Angle Park race-9
+False 1.2322903525879896 Mandurah race-9
+False 1.2535426029664303 Hobart race-10
+False 1.2120069323929596 Dapto race-9
+False 1.132768124459683 Sandown Park race-11
+False 1.2080517825766888 Albion Park race-10
+False 1.1601307753308403 Angle Park race-9
+False 1.231421920108615 Mandurah race-9
+False 1.2176155769389334 Hobart race-10
+False 1.2120069323929596 Dapto race-9
+False 1.0929969880805106 Sandown Park race-11
+False 1.2080517825766888 Albion Park race-10
+False 1.145855323761146 Angle Park race-9
+False 1.231421920108615 Mandurah race-9
+False 1.1861036491548629 Hobart race-10
+False 1.2120069323929596 Dapto race-9
+False 1.1957241625962283 Sandown Park race-12
+False 1.2080517825766888 Albion Park race-10
+False 1.1223247221484915 Angle Park race-9
+False 1.231421920108615 Mandurah race-9
+False 1.1327059728317699 Hobart race-10
+False 1.1868318021201643 Dapto race-9
+False 1.185623152495218 Sandown Park race-12
+False 1.2080517825766888 Albion Park race-10
+False 1.2050841565098467 Angle Park race-10
+False 1.231421920108615 Mandurah race-9
+False 1.0714527460120886 Hobart race-10
+False 1.1545660206742252 Dapto race-9
+False 1.185623152495218 Sandown Park race-12
+False 1.1985289892994095 Albion Park race-10
+False 1.2050841565098467 Angle Park race-10
+False 1.2165021458385967 Mandurah race-9
+False 1.1372270217702771 Dapto race-9
+False 1.185623152495218 Sandown Park race-12
+False 1.1982899945838885 Albion Park race-10
+False 1.1994082019174834 Angle Park race-10
+False 1.238010120706594 Mandurah race-9
+False 1.1562901417287141 Dapto race-10
+False 1.185623152495218 Sandown Park race-12
+False 1.20197378209754 Albion Park race-10
+False 1.1994082019174834 Angle Park race-10
+False 1.2286847373943555 Mandurah race-9
+False 1.1562901417287141 Dapto race-10
+False 1.185623152495218 Sandown Park race-12
+False 1.196584988501199 Albion Park race-10
+False 1.2011625878823957 Angle Park race-10
+False 1.188879361753548 Mandurah race-9
+False 1.1562901417287141 Dapto race-10
+False 1.185623152495218 Sandown Park race-12
+False 1.1474620199809247 Albion Park race-10
+False 1.1967508231765134 Angle Park race-10
+False 1.1420756368065121 Mandurah race-9
+False 1.1562901417287141 Dapto race-10
+False 1.1836623681814926 Sandown Park race-12
+False 1.1390311507297626 Albion Park race-10
+False 1.1967508231765134 Angle Park race-10
+False 1.1271700178046926 Mandurah race-9
+False 1.1562901417287141 Dapto race-10
+False 1.1866895439640863 Sandown Park race-12
+False 1.0701134540737014 Albion Park race-10
+False 1.203903451669771 Angle Park race-10
+False 1.2275569578913614 Mandurah race-10
+False 1.1562901417287141 Dapto race-10
+False 1.154034185908331 Sandown Park race-12
+????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????True 0 Albion Park race-11
+False 1.1661205151917227 Angle Park race-10
+False 1.2287764700864834 Mandurah race-10
+False 1.1562901417287141 Dapto race-10
+False 1.134675315504569 Sandown Park race-12
+False 1.210165142900418 Albion Park race-11
+False 1.167857353822266 Angle Park race-10
+False 1.2287764700864834 Mandurah race-10
+False 1.1562901417287141 Dapto race-10
+False 1.210165142900418 Albion Park race-11
+False 1.1231378135474162 Angle Park race-10
+False 1.2287764700864834 Mandurah race-10
+False 1.1562901417287141 Dapto race-10
+False 1.210165142900418 Albion Park race-11
+False 1.1088295669941262 Angle Park race-10
+False 1.2287764700864834 Mandurah race-10
+False 1.1497144389504796 Dapto race-10
+False 1.210165142900418 Albion Park race-11
+False 1.2287764700864834 Mandurah race-10
+False 1.1527595193456328 Dapto race-10
+False 1.210165142900418 Albion Park race-11
+False 1.2296684511764844 Mandurah race-10
+False 1.1102106199715325 Dapto race-10
+False 1.210165142900418 Albion Park race-11
+False 1.2287764700864834 Mandurah race-10
+False 1.0327783471012408 Dapto race-10
+False 1.210165142900418 Albion Park race-11
+False 1.2182962945384335 Mandurah race-10
+False 1.1836441715821293 Albion Park race-11
+False 1.1765689557031458 Mandurah race-10
+False 1.1810076330200168 Albion Park race-11
+False 1.0753345916389396 Mandurah race-10
+False 1.172263640349649 Albion Park race-11
+False 1.0544595608826286 Mandurah race-10
+False 1.0991212707177174 Albion Park race-11
+False 1.1793038826818432 Mandurah race-11
+False 1.088721312603783 Albion Park race-11
+False 1.1793038826818432 Mandurah race-11
+False 1.1934918771700096 Albion Park race-12
+False 1.1793038826818432 Mandurah race-11
+False 1.1934918771700096 Albion Park race-12
+False 1.1793038826818432 Mandurah race-11
+False 1.1934918771700096 Albion Park race-12
+False 1.175770161501063 Mandurah race-11
+False 1.1934918771700096 Albion Park race-12
+False 1.1558758181709001 Mandurah race-11
+False 1.1846994101875281 Albion Park race-12
+False 1.0702131202131202 Mandurah race-11
+False 1.1814404142814734 Albion Park race-12
+False 1.0250907770515614 Mandurah race-11
+False 1.1814404142814734 Albion Park race-12
+True 0.9851426351426351 Mandurah race-11
+False 1.1814404142814734 Albion Park race-12
+False 1.21345103572672 Mandurah race-12
+False 1.1793696159348037 Albion Park race-12
+False 1.2066259560756245 Mandurah race-12
+False 1.176506283669048 Albion Park race-12
+False 1.2066259560756245 Mandurah race-12
+False 1.1145093047370085 Albion Park race-12
+False 1.2066259560756245 Mandurah race-12
+False 1.0607428234693117 Albion Park race-12
+False 1.2066259560756245 Mandurah race-12
+False 1.1900172231054582 Mandurah race-12
+False 1.1872103719536593 Mandurah race-12
+False 1.164681848349096 Mandurah race-12
+False 1.1391142675003598 Mandurah race-12
+False 1.0628068294891824 Mandurah race-12
+False 1.0111400731057738 Mandurah race-12
+

@@ -32,3 +32,13 @@ def bet_calculator(ls, profit):
     bet_vector = numpy.dot(bet_inverse, profit)
     
     return bet_vector
+
+
+
+
+
+def find_distribution(stake, odds):
+    dist_vect = bet_calculator(odds, 1)/sum(bet_calculator(odds, 1))
+    return stake*dist_vect
+
+print(find_distribution(100,[3,3,3.2]))
