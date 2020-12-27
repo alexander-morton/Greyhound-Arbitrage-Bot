@@ -1432,3 +1432,105 @@ False 1.164681848349096 Mandurah race-12
 False 1.1391142675003598 Mandurah race-12
 False 1.0628068294891824 Mandurah race-12
 False 1.0111400731057738 Mandurah race-12
+False 1.2541044416767575 The Gardens race-1
+False 1.2541044416767575 The Gardens race-1
+False 1.2541044416767575 The Gardens race-1
+False 1.184895170189288 Wentworth Park race-1
+False 1.2640867043745427 Ipswich race-1
+False 1.188034052412949 The Gardens race-2
+False 1.1865242402090495 The Meadows race-1
+False 1.229522491051493 Sale race-1
+False 1.184895170189288 Wentworth Park race-1
+False 1.2640867043745427 Ipswich race-1
+False 1.2032700216046022 The Gardens race-3
+False 1.1615055765504796 The Meadows race-1
+False 1.229522491051493 Sale race-1
+False 1.184895170189288 Wentworth Park race-1
+False 1.2640867043745427 Ipswich race-1
+False 1.148260117090468 The Gardens race-3
+False 1.064764728966877 The Meadows race-1
+False 1.2403498512203415 Nowra race-1
+False 1.21472831880658 Sale race-1
+False 1.1753545158656444 Wentworth Park race-2
+False 1.192698844194808 Ipswich race-2
+False 1.1325967816611133 The Gardens race-4
+False 1.1377769580127823 The Meadows race-3
+False 1.2403498512203415 Nowra race-1
+False 1.2308251848951932 Sale race-2
+False 1.1348241817929507 Wentworth Park race-2
+False 1.1906867717602005 Ipswich race-2
+False 1.208682069269982 The Gardens race-5
+False 1.1395206371758164 The Meadows race-3
+False 1.2397256314949983 Nowra race-1
+False 1.231720991835601 Sale race-2
+False 1.1864718889503056 Wentworth Park race-3
+False 1.1864718889503056 Wentworth Park race-3
+False 1.1831750346709986 Ipswich race-2
+False 1.2116677956768562 The Gardens race-5
+False 1.105332943864297 The Meadows race-3
+False 1.2397256314949983 Nowra race-1
+False 1.2324871046486499 Sale race-3
+False 1.1864718889503056 Wentworth Park race-3
+False 1.1665742441571645 Ipswich race-2
+False 1.2116677956768562 The Gardens race-5
+False 1.0922504897722427 The Meadows race-3
+False 1.2397256314949983 Nowra race-1
+False 1.2324871046486499 Sale race-3
+False 1.1725683657161996 Wentworth Park race-3
+False 1.1652236801729583 Ipswich race-2
+False 1.2116677956768562 The Gardens race-5
+False 1.1389717305216782 The Meadows race-4
+False 1.152735739132798 Wentworth Park race-4
+False 1.062362368539404 Ipswich race-3
+False 1.228924836808154 The Gardens race-6
+False 1.1635496194844561 The Meadows race-5
+False 1.2095073512667138 Nowra race-2
+????????????????????????????????????????????False 1.0408432147562583 Sale race-4
+False 1.1217190275399658 Wentworth Park race-4
+False 1.216827801752378 Ipswich race-4
+False 1.2287639306082743 The Gardens race-6
+False 1.164275308889391 The Meadows race-5
+False 1.2095073512667138 Nowra race-2
+????????????????????????????????????????????False 1.0408432147562583 Sale race-4
+False 1.1343204019834454 Wentworth Park race-4
+False 1.216827801752378 Ipswich race-4
+False 1.2081687866403392 The Gardens race-6
+False 1.1683669619172141 The Meadows race-5
+False 1.2095073512667138 Nowra race-2
+????????????????????????????????????????????False 1.0408432147562583 Sale race-4
+False 1.0407718643012762 Wentworth Park race-4
+False 1.216827801752378 Ipswich race-4
+False 1.1659935942595407 Wentworth Park race-5
+False 1.1762165087936935 Ipswich race-4
+False 1.2188771832372567 The Gardens race-7
+False 1.11562792894937 The Meadows race-6
+False 1.1275959217660525 Nowra race-2
+False 1.2217524587154989 Sale race-5
+False 1.1839386122045585 Wentworth Park race-5
+False 1.1518707055834227 Ipswich race-4
+False 1.2188771832372567 The Gardens race-7
+False 1.11562792894937 The Meadows race-6
+False 1.1672047877416463 Nowra race-3
+False 1.2060327805913216 Sale race-5
+False 1.1421309974829517 Wentworth Park race-5
+False 1.2410556645245716 Ipswich race-5
+False 1.2250300424213467 The Gardens race-7
+False 1.11562792894937 The Meadows race-6
+False 1.1731545125668732 Nowra race-3
+False 1.2060327805913216 Sale race-5
+False 1.0988262392758625 Wentworth Park race-5
+False 1.2410556645245716 Ipswich race-5
+False 1.0969907072848248 Wentworth Park race-8
+False 1.1977017118978122 Ipswich race-7
+False 1.2411628163713604 The Gardens race-10
+False 1.1711405720720447 The Meadows race-9
+False 1.167766244576733 Nowra race-5
+False 1.12688712501289 Sale race-8
+False 1.1033395251856903 Wentworth Park race-8
+False 1.1843051971187113 Ipswich race-7
+False 1.2411628163713604 The Gardens race-10
+False 1.1697160706475433 The Meadows race-9
+False 1.1696965883671906 Nowra race-5
+False 1.1327350782292644 Sale race-8
+False 1.1476404024658993 Wentworth Park race-9
+False 1.184021183693637 Ipswich race-7
