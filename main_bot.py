@@ -21,10 +21,10 @@ def check():
             
             
             odds_dict = oddscraper(url_dict[track][0])
-            url_list = url_dict[track][0].split("/")
-            f = open("success.txt", "a")
-            f.write(str(spreader(odds_dict)[0]) + " " + str(spreader(odds_dict)[1]) + " " + track + " " + url_list[-2] +"\n" )
-            f.close()
+            if spreader(odds_dict)[0]:
+                f = open("success.txt", "a")
+                f.write(str(spreader(odds_dict)[0]) + str(spreader(odds_dict)[1]) + track +"\n")
+                f.close()
 
 
 

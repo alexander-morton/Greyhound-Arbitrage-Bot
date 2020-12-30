@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup as soup
 from selenium import webdriver
 import datetime
 import time
+from spreader import spreader
 
 def newrl():
     my_url = 'https://www.odds.com.au/greyhounds/'
@@ -72,10 +73,12 @@ def adder(race_dct, ls):
                 
                 if race_datetime - now < datetime.timedelta(minutes=15) and race_datetime - now > datetime.timedelta(minutes=0) and (not race_dct[track][race] in ls) :
                     ls.append(race_dct[track][race])
+    print("queue refreshed")
+    
                     
 
 def string_time(string):
-    if string == "ENDED":
+    if string == "ENDED" or string == "":
         return "done"
     time_list = string.split(" ")
     if len(time_list) == 1:
@@ -91,31 +94,40 @@ def string_time(string):
         
 def refresher(ls):
     
-    while True:
-        i = 0
-        while i < len(ls):
-            if len(ls[i]) < 3:
-                new_browser = webdriver.Chrome('/Users/Bet-tings/chromedriver')
-                new_browser.get(ls[i][0])
-                ls[i].append(new_browser)
-            else:
-                ls[i][2].refresh()
+    i = 0
+    while i < len(ls):
+        if len(ls[i]) < 3:
+            new_browser = webdriver.Chrome('/Users/Bet-tings/chromedriver')
+            new_browser.get(ls[i][0])
+            ls[i].append(new_browser)
+        else:
+            ls[i][2].refresh()
 
-            window = ls[i][2].page_source
-            window_soup = soup(window, "html.parser")
-            time_left = window_soup.find("abbr", {"class":"imminent relative-time__inner"}).find("span").getText()
-            time_left = string_time(time_left)
-            if time_left == "done" or time_left < datetime.timedelta(seconds = 15):
-                ls[i][2].close()
-                ls.remove(ls[i])
-                print("yeeehaaaa")
-                break
-
-            print(time_left)
-            odds_dict = oddscraper2(window_soup)
-            print(odds_dict)
-            time.sleep(5)
+        window = ls[i][2].page_source
+        window_soup = soup(window, "html.parser")
+        time_left = window_soup.find("abbr", {"class":"relative-time__inner"}).find("span").getText()
+        time_left = string_time(time_left)
+        if time_left == "done" or time_left < datetime.timedelta(seconds = 15):
+            ls[i][2].close()
+            ls.remove(ls[i])
+            print("race removed")
             i += 1
+            break
+        
+        
+        odds_dict = oddscraper2(window_soup)
+        url_list = ls[i][0].split("/")
+        track = url_list[4]
+        race = url_list[5]
+        f = open("success.txt", "a")
+        f.write("{} {} {} {} {}\n".format(spreader(odds_dict)[0], spreader(odds_dict)[1], track, race, time_left))
+        f.close()
+        
+        
+        time.sleep(5)
+        
+        i += 1
+            
 
 
 def oddscraper2(page_soup):
@@ -129,6 +141,8 @@ def oddscraper2(page_soup):
 
     rows = page_soup.find_all("div", {"class":"octd-right__main-row"})
     odds_dict = {}
+
+    time.sleep(1)
 
     for row in rows:
         odds = row.find_all('div', {"class":"octd-right__odds-value-cell"})

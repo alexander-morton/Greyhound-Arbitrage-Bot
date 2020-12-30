@@ -18,17 +18,20 @@ def update_ls():
     global race_dct
     adder(race_dct,ls)
 
+
 update_race_dct()
 update_ls()
 
 
-schedule.every().hour.do(update_race_dct)
-schedule.every(6).minutes.do(update_ls)
+schedule.every(30).minutes.do(update_race_dct)
+schedule.every(5).minutes.do(update_ls)
 
 
 while True:
     schedule.run_pending()
     refresher(ls)
     time.sleep(1)
+    print("cycled\n")
+    
     
     
