@@ -183,16 +183,17 @@ print(runners_df)
 for id in aus_thoroughbred_events_today:
     market_catalogue_filter = betfairlightweight.filters.market_filter(event_ids=[id])
     market_catalogues = trading.betting.list_market_catalogue(filter=market_catalogue_filter,max_results='100',sort='FIRST_TO_START')
-    market_types_current_race = [market_cat_object.market_id for market_cat_object in market_catalogues]
+    market_types_current_race = {'Market Name': [market_cat_object.market_name for market_cat_object in market_catalogues],'Market ID': [market_cat_object.market_id for market_cat_object in market_catalogues]}
+           
     i = 0
-    while i < len(market_types_current_race):
-        if i % 3 == 2:
+    while i < len(market_types_current_race['Market Name']):
+        if market_types_current_race['Market Name'][i][0] == 'R' and market_types_current_race['Market Name'][i][1].isnumeric():
             price_filter = betfairlightweight.filters.price_projection(price_data=['EX_BEST_OFFERS'])
-            market_books = trading.betting.list_market_book(market_ids=[market_types_current_race[i]],price_projection=price_filter)
+            market_books = trading.betting.list_market_book(market_ids=[market_types_current_race['Market ID'][i]],price_projection=price_filter)
             market_book = market_books[0]
             runners_df = process_runner_books(market_book.runners)
         
-        market_types_current_race.remove(market_types_current_race[i])
+        
         i += 1
     
 
