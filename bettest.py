@@ -192,9 +192,9 @@ for id in aus_thoroughbred_events_today:
             market_books = trading.betting.list_market_book(market_ids=[market_types_current_race['Market ID'][i]],price_projection=price_filter)
             market_book = market_books[0]
             runners_df = process_runner_books(market_book.runners)
+            print(runners_df)
         
         
         i += 1
     
 
-print(runners_df)
