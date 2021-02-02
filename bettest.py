@@ -198,3 +198,14 @@ for id in aus_thoroughbred_events_today:
         i += 1
     
 
+market_catalogue_filter = betfairlightweight.filters.market_filter(
+    event_type_ids=['7'],
+    market_type_codes=["WIN"],
+    market_start_time={
+            'to': (datetime.datetime.utcnow() + datetime.timedelta(days=1)).strftime("%Y-%m-%dT%TZ")
+        }
+    )
+
+market_catalogue = trading.betting.list_market_catalogue(filter=market_catalogue_filter,max_results="100",sort = "FIRST_TO_START")
+
+print(market_catalogue)
