@@ -1,22 +1,19 @@
 
 def spreader(dct):
-    if dct == {}:
-        return [False, "empty dictionary"]
-
     spread = 0
     for dog in dct:
         if dct[dog] == []:
             f = open("success.txt", "a")
-            f.write("?")
+            f.write("???????????")
             f.close()
             continue
         
         spread += 1/max(dct[dog])
 
     if spread< 1:
-        return [True, spread]
+        return True, spread
 
-    return [False, spread]
+    return False, spread
 
     
 
