@@ -1,4 +1,3 @@
-
 False 1.2423040288986729 Lismore race-3
 False 1.2344603350216283 Mount Gambier race-3
 False 1.211476366317388 Lismore race-3
