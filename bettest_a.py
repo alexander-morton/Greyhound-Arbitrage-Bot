@@ -9,7 +9,7 @@ import datetime
 certs_path = '/Users/alexmorton/Desktop/certs'
 
 my_username = 'alexmorton'
-my_password = 'RAS9940breh%1'
+my_password = 'RES4545breh%1'
 my_app_key = 'oJnXnECanrlK156n'
 
 trading = betfairlightweight.APIClient(username = my_username, password = my_password, app_key = my_app_key, certs = certs_path)
