@@ -9,7 +9,7 @@ import datetime
 certs_path = '/Users/alexmorton/Desktop/certs'
 
 my_username = 'alexmorton'
-my_password = 'RAS9940breh%'
+my_password = 'RAS9940breh%1'
 my_app_key = 'oJnXnECanrlK156n'
 
 trading = betfairlightweight.APIClient(username = my_username, password = my_password, app_key = my_app_key, certs = certs_path)
@@ -109,6 +109,20 @@ market_types_current_race = pd.DataFrame({
 print(market_types_current_race)
 '''
 
+def process_runner_books_2(runner_books):
+
+    i = 0
+    best_back_prices = []
+    while i < len(runner_books):
+        runner = runner_books[i]
+        best_back_prices.append(runner.ex.available_to_back[0].price)
+
+        i += 1
+
+    return best_back_prices
+
+
+
 def process_runner_books(runner_books):
     '''
     This function processes the runner books and returns a DataFrame with the best back/lay prices + vol for each runner
@@ -197,24 +211,40 @@ while i < len(market_catalogue):
     market_ids.append(market_catalogue[i].market_id)
     i += 1
 
-price_filter = betfairlightweight.filters.price_projection(price_data=['EX_BEST_OFFERS'])
+price_filter = betfairlightweight.filters.price_projection(
+    price_data=['EX_BEST_OFFERS'],
+    virtualise = True ,
+    ex_best_offers_overrides={ 'best_prices_depth': 1 }
 
 
+)
 market_books = trading.betting.list_market_book(market_ids = market_ids, price_projection=price_filter)
 
 
 for market_book in market_books:
     runner_books = market_book.runners
-    print(market_book.market_id)
-    print(runner_books)
+    # print(market_book.market_id)
+   
+
+
     i = 0
     while i < len(runner_books):
         if runner_books[i].status == "REMOVED":
             runner_books.remove(runner_books[i])
             continue
-        i += 1
         
-    print(process_runner_books(runner_books))
+        i += 1
+
+size = []
+for market in market_books:
+    print(market.market_id)      
+    runner_book = market.runners
+
+    for runner in runner_book:
+        print(runner.ex.available_to_back[0].size)
+        size.append(float(runner.ex.available_to_back[0].size))
+
+print("\n"+str(min(size)))
 
 
 
