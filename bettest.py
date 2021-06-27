@@ -116,23 +116,23 @@ def process_runner_books(runner_books):
     :return:
     '''
     best_back_prices = [runner_book.ex.available_to_back[0].price
-                        if runner_book.ex.available_to_back[0].price
+                        if runner_book.ex.available_to_back
                         else 1.01
                         for runner_book
                         in runner_books]
     best_back_sizes = [runner_book.ex.available_to_back[0].size
-                       if runner_book.ex.available_to_back[0].size
+                       if runner_book.ex.available_to_back
                        else 1.01
                        for runner_book
                        in runner_books]
 
     best_lay_prices = [runner_book.ex.available_to_lay[0].price
-                       if runner_book.ex.available_to_lay[0].price
+                       if runner_book.ex.available_to_lay
                        else 1000.0
                        for runner_book
                        in runner_books]
     best_lay_sizes = [runner_book.ex.available_to_lay[0].size
-                      if runner_book.ex.available_to_lay[0].size
+                      if runner_book.ex.available_to_lay
                       else 1.01
                       for runner_book
                       in runner_books]
@@ -178,26 +178,6 @@ runners_df = process_runner_books(market_book.runners)
 print(runners_df)
 '''
 
-#This part not yet working got to work it out innit
-
-for id in aus_thoroughbred_events_today:
-    market_catalogue_filter = betfairlightweight.filters.market_filter(event_ids=[id])
-    market_catalogues = trading.betting.list_market_catalogue(filter=market_catalogue_filter,max_results='100',sort='FIRST_TO_START')
-    market_types_current_race = {'Market Name': [market_cat_object.market_name for market_cat_object in market_catalogues],'Market ID': [market_cat_object.market_id for market_cat_object in market_catalogues]}
-           
-    i = 0
-    while i < len(market_types_current_race['Market Name']):
-        if market_types_current_race['Market Name'][i][0] == 'R' and market_types_current_race['Market Name'][i][1].isnumeric():
-            price_filter = betfairlightweight.filters.price_projection(price_data=['EX_BEST_OFFERS'])
-            market_books = trading.betting.list_market_book(market_ids=[market_types_current_race['Market ID'][i]],price_projection=price_filter)
-            market_book = market_books[0]
-            runners_df = process_runner_books(market_book.runners)
-            print(runners_df)
-        
-        
-        i += 1
-    
-
 market_catalogue_filter = betfairlightweight.filters.market_filter(
     event_type_ids=['7'],
     market_type_codes=["WIN"],
@@ -206,6 +186,32 @@ market_catalogue_filter = betfairlightweight.filters.market_filter(
         }
     )
 
-market_catalogue = trading.betting.list_market_catalogue(filter=market_catalogue_filter,max_results="100",sort = "FIRST_TO_START")
+market_catalogue = trading.betting.list_market_catalogue(filter=market_catalogue_filter,max_results="40",sort = "FIRST_TO_START")
 
-print(market_catalogue)
+market_ids = []
+i = 0
+while i < len(market_catalogue):
+    
+    market_ids.append(market_catalogue[i].market_id)
+    i += 1
+
+
+ex_best_offers_filter = betfairlightweight.filters.ex_best_offers_overrides(rollup_model='STAKE',rollup_limit=17)
+price_filter = betfairlightweight.filters.price_projection(price_data=['EX_BEST_OFFERS'],virtualise=True,ex_best_offers_overrides=ex_best_offers_filter)
+
+
+market_books = trading.betting.list_market_book(market_ids = market_ids, price_projection=price_filter)
+
+
+for market_book in market_books:
+    runner_books = market_book.runners
+    print(market_book.market_id)
+    i = 0
+    while i < len(runner_books):
+        if runner_books[i].status == "REMOVED":
+            runner_books.remove(runner_books[i])
+            continue
+        i += 1
+        
+    with pd.option_context('display.max_rows', None, 'display.max_columns', None):  # more options can be specified also
+        print(process_runner_books(runner_books))
