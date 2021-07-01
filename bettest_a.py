@@ -6,10 +6,10 @@ import os
 import json
 import datetime
 
-certs_path = '/Users/alexmorton/Desktop/certs'
+certs_path = '/Users/alexmorton/Desktop/Certs'
 
 my_username = 'alexmorton'
-my_password = 'RES4545breh%1'
+my_password = 'RES4545breh%1!'
 my_app_key = 'oJnXnECanrlK156n'
 
 trading = betfairlightweight.APIClient(username = my_username, password = my_password, app_key = my_app_key, certs = certs_path)
@@ -43,21 +43,21 @@ horse_racing_event_type_id = horse_racing_event_type.event_type.id
 
 
 # Define a market filter
-# thoroughbreds_event_filter = betfairlightweight.filters.market_filter(
-#     event_type_ids=['7'],
-#     market_countries=['AU'],
-#     market_start_time={
-#         'to': (datetime.datetime.utcnow() + datetime.timedelta(days=1)).strftime("%Y-%m-%dT%TZ")
-#     }
-# )
+thoroughbreds_event_filter = betfairlightweight.filters.market_filter(
+    event_type_ids=['7'],
+    market_countries=['AU'],
+    market_start_time={
+        'to': (datetime.datetime.utcnow() + datetime.timedelta(days=1)).strftime("%Y-%m-%dT%TZ")
+    }
+)
 
 # Print the filter
 #print(thoroughbreds_event_filter)
 
 # Get a list of all thoroughbred events as objects
-# aus_thoroughbred_events = trading.betting.list_events(
-#     filter=thoroughbreds_event_filter
-# )
+aus_thoroughbred_events = trading.betting.list_events(
+    filter=thoroughbreds_event_filter
+)
 
 # Create a DataFrame with all the events by iterating over each event object
 '''aus_thoroughbred_events_today = pd.DataFrame({
@@ -70,9 +70,9 @@ horse_racing_event_type_id = horse_racing_event_type.event_type.id
     'Market Count': [event_object.market_count for event_object in aus_thoroughbred_events]
 })
 '''
-# aus_thoroughbred_events_today = [event_object.event.id for event_object in aus_thoroughbred_events]
+aus_thoroughbred_events_today = [event_object.event.id for event_object in aus_thoroughbred_events]
 
-# print(aus_thoroughbred_events_today)
+print(aus_thoroughbred_events_today)
 
 # Define a market filter
 
@@ -108,20 +108,6 @@ market_types_current_race = pd.DataFrame({
 
 print(market_types_current_race)
 '''
-
-def process_runner_books_2(runner_books):
-
-    i = 0
-    best_back_prices = []
-    while i < len(runner_books):
-        runner = runner_books[i]
-        best_back_prices.append(runner.ex.available_to_back[0].price)
-
-        i += 1
-
-    return best_back_prices
-
-
 
 def process_runner_books(runner_books):
     '''
@@ -194,6 +180,24 @@ print(runners_df)
 
 #This part not yet working got to work it out innit
 
+for id in aus_thoroughbred_events_today:
+    market_catalogue_filter = betfairlightweight.filters.market_filter(event_ids=[id])
+    market_catalogues = trading.betting.list_market_catalogue(filter=market_catalogue_filter,max_results='100',sort='FIRST_TO_START')
+    market_types_current_race = {'Market Name': [market_cat_object.market_name for market_cat_object in market_catalogues],'Market ID': [market_cat_object.market_id for market_cat_object in market_catalogues]}
+           
+    i = 0
+    while i < len(market_types_current_race['Market Name']):
+        if market_types_current_race['Market Name'][i][0] == 'R' and market_types_current_race['Market Name'][i][1].isnumeric():
+            price_filter = betfairlightweight.filters.price_projection(price_data=['EX_BEST_OFFERS'])
+            market_books = trading.betting.list_market_book(market_ids=[market_types_current_race['Market ID'][i]],price_projection=price_filter)
+            market_book = market_books[0]
+            runners_df = process_runner_books(market_book.runners)
+            print(runners_df)
+        
+        
+        i += 1
+    
+
 market_catalogue_filter = betfairlightweight.filters.market_filter(
     event_type_ids=['7'],
     market_type_codes=["WIN"],
@@ -202,74 +206,6 @@ market_catalogue_filter = betfairlightweight.filters.market_filter(
         }
     )
 
-market_catalogue = trading.betting.list_market_catalogue(filter=market_catalogue_filter,max_results="40",sort = "FIRST_TO_START")
+market_catalogue = trading.betting.list_market_catalogue(filter=market_catalogue_filter,max_results="100",sort = "FIRST_TO_START")
 
-market_ids = []
-i = 0
-while i < len(market_catalogue):
-    
-    market_ids.append(market_catalogue[i].market_id)
-    i += 1
-
-price_filter = betfairlightweight.filters.price_projection(
-    price_data=['EX_BEST_OFFERS'],
-    virtualise = True ,
-    ex_best_offers_overrides={ 'best_prices_depth': 1 }
-
-
-)
-market_books = trading.betting.list_market_book(market_ids = market_ids, price_projection=price_filter)
-
-
-for market_book in market_books:
-    runner_books = market_book.runners
-    # print(market_book.market_id)
-   
-
-
-    i = 0
-    while i < len(runner_books):
-        if runner_books[i].status == "REMOVED":
-            runner_books.remove(runner_books[i])
-            continue
-        
-        i += 1
-
-size = []
-for market in market_books:
-    print(market.market_id)      
-    runner_book = market.runners
-
-    for runner in runner_book:
-        print(runner.ex.available_to_back[0].size)
-        size.append(float(runner.ex.available_to_back[0].size))
-
-print("\n"+str(min(size)))
-
-
-
-
-
-
-# for market_book in market_catalogue:
-#     runners_df = process_runner_books(market_book.runners)
-#     print(runners_df)
-
-# for id in aus_thoroughbred_events_today:
-#     market_catalogue_filter = betfairlightweight.filters.market_filter(event_ids=[id])
-#     market_catalogues = trading.betting.list_market_catalogue(filter=market_catalogue_filter,max_results='100',sort='FIRST_TO_START')
-#     market_types_current_race = {'Market Name': [market_cat_object.market_name for market_cat_object in market_catalogues],'Market ID': [market_cat_object.market_id for market_cat_object in market_catalogues]}
-           
-#     i = 0
-#     while i < len(market_types_current_race['Market Name']):
-#         if market_types_current_race['Market Name'][i][0] == 'R' and market_types_current_race['Market Name'][i][1].isnumeric():
-#             price_filter = betfairlightweight.filters.price_projection(price_data=['EX_BEST_OFFERS'])
-#             market_books = trading.betting.list_market_book(market_ids=[market_types_current_race['Market ID'][i]],price_projection=price_filter)
-#             market_book = market_books[0]
-#             runners_df = process_runner_books(market_book.runners)
-#             print(runners_df)
-        
-        
-#         i += 1
-    
-
+print(market_catalogue)
